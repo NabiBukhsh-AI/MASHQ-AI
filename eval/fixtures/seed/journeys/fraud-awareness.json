@@ -1,0 +1,1065 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-21T09:45:00.895Z",
+  "content": {
+    "title": "fraud-awareness",
+    "sourceType": "paste",
+    "sourceHash": "9687f86a846e3955eafea113429f22cd5323cafe6e4320064a159313313948d8",
+    "parserVersion": "v1",
+    "langPrimary": "en",
+    "status": "ready",
+    "stats": {
+      "bytes": 2539,
+      "chars": 2558,
+      "chunks": 6,
+      "tokens": 583,
+      "scanned": false,
+      "redactions": 0,
+      "injectionFlags": 0
+    },
+    "warnings": []
+  },
+  "chunks": [
+    {
+      "ordinal": 0,
+      "text": "Fraud awareness and prevention at the branch",
+      "anchorKind": "section",
+      "anchorRef": "1",
+      "charStart": 0,
+      "charEnd": 44,
+      "headingPath": ["Fraud awareness and prevention at the branch"],
+      "tokenCount": 11,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 1,
+      "text": "Branch staff are the first line of defense against social engineering, identity theft, and unauthorized fund transfers. This policy outlines common fraud patterns in Pakistan banking, mandatory verification rules, and immediate escalation protocols.",
+      "anchorKind": "section",
+      "anchorRef": "2",
+      "charStart": 0,
+      "charEnd": 249,
+      "headingPath": ["Purpose"],
+      "tokenCount": 63,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 2,
+      "text": "Fraudsters frequently call or visit branches claiming to be regulatory officials, head office auditors, or IT support personnel asking for passwords, system overrides, or customer PINs.\n\nRule: Head office and IT staff will never ask a branch officer for customer credentials, one-time passwords (OTPs), or system passwords over the phone. Any such request must be treated as an attempt to compromise the bank and reported immediately to the Information Security Incident Desk.",
+      "anchorKind": "section",
+      "anchorRef": "3",
+      "charStart": 0,
+      "charEnd": 476,
+      "headingPath": ["Pattern 1: Social engineering and impersonation"],
+      "tokenCount": 119,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 3,
+      "text": "A common scheme involves a fraudster obtaining a customer's CNIC copy and attempting to change the registered mobile number at the counter. Once the number is updated, the fraudster registers for mobile banking and intercepts OTPs to empty accounts.\n\nRule: Mobile number updates require:\n\n1. Physical presence of the account holder with their original CNIC.\n2. Biometric thumb impression verification matched via NADRA.\n3. Confirmation of the previous three transactions on the account.\nA mobile number change can never be processed on behalf of a third party, family member, or through an authority letter without written sign-off from the Branch Manager.",
+      "anchorKind": "section",
+      "anchorRef": "4",
+      "charStart": 0,
+      "charEnd": 656,
+      "headingPath": ["Pattern 2: Digital banking and OTP diversion"],
+      "tokenCount": 164,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 4,
+      "text": "Altered cheques typically target amounts and beneficiary names. Signs of alteration include:\n\n- Inconsistent ink shade or pen stroke thickness.\n- Chemical washing marks around the payee line or amount box.\n- Differences between the written words and numerical figures.\n\nRule: For any clearing or counter cheque exceeding five hundred thousand rupees (PKR 500,000), telephone confirmation with the drawer using the registered contact number is mandatory before passing the instrument. Never use contact numbers handwritten on the back of the cheque.",
+      "anchorKind": "section",
+      "anchorRef": "5",
+      "charStart": 0,
+      "charEnd": 548,
+      "headingPath": ["Pattern 3: Cheque cloning and altered instruments"],
+      "tokenCount": 137,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 5,
+      "text": "When fraud is suspected:\n\n1. Do not alert the suspicious individual at the counter.\n2. Inform the Branch Operations Manager using the designated quiet signal.\n3. Freeze the affected account immediately in the core banking system to prevent outgoing transfers.\n4. Log an incident report with the Compliance and Anti-Money Laundering unit within two hours.",
+      "anchorKind": "section",
+      "anchorRef": "6",
+      "charStart": 0,
+      "charEnd": 354,
+      "headingPath": ["Escalation and reporting"],
+      "tokenCount": 89,
+      "lang": "en",
+      "injectionFlag": false
+    }
+  ],
+  "journey": {
+    "title": "Guarding the Branch: Fraud Awareness and Prevention",
+    "outline": {
+      "story": {
+        "premise": "Ayesha, a newly posted branch officer, is being mentored by her senior colleague to recognize and respond to fraud attempts before they cause harm to customers and the bank.",
+        "setting": "A busy urban branch of a fictional Pakistani commercial bank, where daily customer interactions hide occasional attempts at fraud.",
+        "characters": [
+          {
+            "id": "ayesha",
+            "mood": "eager but cautious",
+            "name": "Ayesha Raza",
+            "role": "New branch officer being trained",
+            "voiceProfile": "new_joiner"
+          },
+          {
+            "id": "imran",
+            "mood": "calm and watchful",
+            "name": "Imran Sheikh",
+            "role": "Branch Operations Manager and mentor",
+            "voiceProfile": "guide"
+          },
+          {
+            "id": "begum_kausar",
+            "mood": "trusting and a bit confused",
+            "name": "Begum Kausar",
+            "role": "Elderly long-time customer",
+            "voiceProfile": "customer_elder"
+          },
+          {
+            "id": "bilal",
+            "mood": "impatient and evasive",
+            "name": "Bilal Ahmed",
+            "role": "Young customer attempting a mobile number change",
+            "voiceProfile": "customer_young"
+          }
+        ]
+      },
+      "title": "Guarding the Branch: Fraud Awareness and Prevention",
+      "summary": "A story-driven learning journey that trains branch staff to recognize and stop common fraud patterns in Pakistani banking, including social engineering, SIM/mobile number swap fraud, cheque alteration, and proper escalation protocols when fraud is suspected.",
+      "chapters": [
+        {
+          "key": "ch1_social_engineering",
+          "title": "The Imposter Callers",
+          "arcBeat": "New staff member encounters suspicious phone calls and visits at the branch, learning to spot impersonation attempts before any damage is done.",
+          "missions": [
+            {
+              "key": "m1_spot_impersonator",
+              "title": "The Fake IT Officer",
+              "mechanic": "scenario",
+              "objective": "Identify a social engineering attempt from a caller posing as IT support asking for a password.",
+              "alternates": ["roleplay", "decision"],
+              "conceptKeys": ["c_social_engineering"]
+            },
+            {
+              "key": "m2_report_incident",
+              "title": "Raise the Alarm Quietly",
+              "mechanic": "decision",
+              "objective": "Practice the correct reporting steps when a credential request is suspicious.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_report_credential_requests"]
+            }
+          ]
+        },
+        {
+          "key": "ch2_mobile_fraud",
+          "title": "The SIM Swap Trap",
+          "arcBeat": "A customer's relative tries to change a mobile number at the counter, testing the trainee's knowledge of verification rules.",
+          "missions": [
+            {
+              "key": "m3_verify_mobile_update",
+              "title": "Verify Before You Update",
+              "mechanic": "scenario",
+              "objective": "Correctly apply the CNIC, biometric, and transaction-history verification steps before processing a mobile number change.",
+              "alternates": ["puzzle", "roleplay"],
+              "conceptKeys": ["c_mobile_number_update_verification"]
+            },
+            {
+              "key": "m4_reject_third_party",
+              "title": "Not Without the Branch Manager",
+              "mechanic": "decision",
+              "objective": "Decide whether to process a mobile number change requested by a family member without proper authorization.",
+              "alternates": ["roleplay", "scenario"],
+              "conceptKeys": ["c_no_third_party_mobile_change"]
+            }
+          ]
+        },
+        {
+          "key": "ch3_cheque_fraud",
+          "title": "The Suspicious Cheque",
+          "arcBeat": "A large cheque arrives at the counter with subtle signs of tampering, requiring careful inspection and verification before it can be honored.",
+          "missions": [
+            {
+              "key": "m5_spot_alteration",
+              "title": "Spot the Forgery",
+              "mechanic": "puzzle",
+              "objective": "Examine a cheque for signs of chemical washing, ink inconsistency, and word-figure mismatches.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_cheque_alteration_signs"]
+            },
+            {
+              "key": "m6_verify_high_value",
+              "title": "Call the Real Number",
+              "mechanic": "scenario",
+              "objective": "Apply the mandatory telephone verification rule for a cheque exceeding PKR 500,000 using the registered contact number.",
+              "alternates": ["decision", "roleplay"],
+              "conceptKeys": ["c_high_value_cheque_verification"]
+            }
+          ]
+        },
+        {
+          "key": "ch4_escalation",
+          "title": "When Fraud Strikes",
+          "arcBeat": "All the training comes together as the trainee must respond to a live fraud attempt at the branch, following the full escalation protocol under pressure.",
+          "missions": [
+            {
+              "key": "m7_teach_escalation",
+              "title": "Explain the Protocol",
+              "mechanic": "teach_back",
+              "objective": "Teach back the correct sequence of actions when fraud is suspected, from quiet signal to incident report.",
+              "alternates": ["puzzle", "decision"],
+              "conceptKeys": ["c_fraud_escalation_protocol"]
+            },
+            {
+              "key": "m8_final_fraud_response",
+              "title": "The Branch Under Threat",
+              "mechanic": "final_challenge",
+              "objective": "Handle a complex, multi-signal fraud scenario combining impersonation, mobile number change request, and a suspicious cheque, applying all learned protocols correctly.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": [
+                "c_fraud_escalation_protocol",
+                "c_social_engineering",
+                "c_mobile_number_update_verification",
+                "c_cheque_alteration_signs"
+              ]
+            }
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "key": "c_social_engineering",
+          "name": "Recognizing Social Engineering Attempts",
+          "nameUr": "سوشل انجینئرنگ کی شناخت",
+          "summary": "Fraudsters impersonate regulators, head office auditors, or IT staff to trick branch officers into revealing passwords, OTPs, or system overrides. No legitimate head office or IT request will ever ask for these over the phone.",
+          "chunkIds": ["01a0bfe5-6d44-7eef-871d-e1a26d13ce7c"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": []
+        },
+        {
+          "key": "c_report_credential_requests",
+          "name": "Reporting Suspicious Credential Requests",
+          "nameUr": "مشکوک کریڈینشل درخواستوں کی اطلاع دینا",
+          "summary": "Any request for customer credentials, OTPs, or system passwords must be treated as a compromise attempt and reported immediately to the Information Security Incident Desk.",
+          "chunkIds": ["01a0bfe5-6d44-7eef-871d-e1a26d13ce7c"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": ["c_social_engineering"]
+        },
+        {
+          "key": "c_mobile_number_update_verification",
+          "name": "Verifying Mobile Number Update Requests",
+          "nameUr": "موبائل نمبر تبدیلی کی تصدیق",
+          "summary": "Mobile number changes are a common vector for account takeover fraud. Strict rules require the account holder's physical presence, original CNIC, NADRA biometric verification, and confirmation of the last three transactions before any change is processed.",
+          "chunkIds": ["01a0bfe5-6d44-7a72-b9d3-eb86d9c5c373"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": []
+        },
+        {
+          "key": "c_no_third_party_mobile_change",
+          "name": "No Third-Party Mobile Number Changes",
+          "nameUr": "تیسرے فریق کی جانب سے موبائل نمبر تبدیلی ممنوع",
+          "summary": "A mobile number change can never be processed for a third party, family member, or via authority letter unless the Branch Manager provides written sign-off.",
+          "chunkIds": ["01a0bfe5-6d44-7a72-b9d3-eb86d9c5c373"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_mobile_number_update_verification"]
+        },
+        {
+          "key": "c_cheque_alteration_signs",
+          "name": "Identifying Signs of Cheque Alteration",
+          "nameUr": "چیک میں ردوبدل کی نشانیاں",
+          "summary": "Altered cheques often show inconsistent ink, chemical washing marks near the payee or amount, and mismatches between written words and numeric figures. Staff must inspect cheques carefully for these signs.",
+          "chunkIds": ["01a0bfe5-6d44-748f-b4de-4374d32a2e5b"],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": []
+        },
+        {
+          "key": "c_high_value_cheque_verification",
+          "name": "Telephone Verification for High-Value Cheques",
+          "nameUr": "بڑی رقم کے چیک کی ٹیلی فون تصدیق",
+          "summary": "For cheques exceeding PKR 500,000, staff must call the drawer using the registered contact number on file before honoring the cheque. Numbers written on the back of the cheque must never be used.",
+          "chunkIds": ["01a0bfe5-6d44-748f-b4de-4374d32a2e5b"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": ["c_cheque_alteration_signs"]
+        },
+        {
+          "key": "c_fraud_escalation_protocol",
+          "name": "Fraud Escalation Protocol",
+          "nameUr": "فراڈ کی صورت میں انتظامی کارروائی کا طریقہ کار",
+          "summary": "When fraud is suspected, staff must avoid alerting the suspect, quietly inform the Branch Operations Manager, freeze the account in the core banking system, and log an incident report with Compliance and AML within two hours.",
+          "chunkIds": ["01a0bfe5-6d44-7409-abd4-2be84d59bb26"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": [
+            "c_social_engineering",
+            "c_mobile_number_update_verification",
+            "c_cheque_alteration_signs"
+          ]
+        }
+      ],
+      "warnings": []
+    },
+    "story": {
+      "premise": "Ayesha, a newly posted branch officer, is being mentored by her senior colleague to recognize and respond to fraud attempts before they cause harm to customers and the bank.",
+      "setting": "A busy urban branch of a fictional Pakistani commercial bank, where daily customer interactions hide occasional attempts at fraud.",
+      "characters": [
+        {
+          "id": "ayesha",
+          "mood": "eager but cautious",
+          "name": "Ayesha Raza",
+          "role": "New branch officer being trained",
+          "voiceProfile": "new_joiner"
+        },
+        {
+          "id": "imran",
+          "mood": "calm and watchful",
+          "name": "Imran Sheikh",
+          "role": "Branch Operations Manager and mentor",
+          "voiceProfile": "guide"
+        },
+        {
+          "id": "begum_kausar",
+          "mood": "trusting and a bit confused",
+          "name": "Begum Kausar",
+          "role": "Elderly long-time customer",
+          "voiceProfile": "customer_elder"
+        },
+        {
+          "id": "bilal",
+          "mood": "impatient and evasive",
+          "name": "Bilal Ahmed",
+          "role": "Young customer attempting a mobile number change",
+          "voiceProfile": "customer_young"
+        }
+      ]
+    },
+    "designHash": "25319eb8473bb98958e9ade15b7d46d1a84208d4249567f3f63e142604848964",
+    "status": "ready",
+    "promptVersion": "design-2026-09-18"
+  },
+  "concepts": [
+    {
+      "key": "c_social_engineering",
+      "name": "Recognizing Social Engineering Attempts",
+      "nameUr": "سوشل انجینئرنگ کی شناخت",
+      "summary": "Fraudsters impersonate regulators, head office auditors, or IT staff to trick branch officers into revealing passwords, OTPs, or system overrides. No legitimate head office or IT request will ever ask for these over the phone.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [2]
+    },
+    {
+      "key": "c_report_credential_requests",
+      "name": "Reporting Suspicious Credential Requests",
+      "nameUr": "مشکوک کریڈینشل درخواستوں کی اطلاع دینا",
+      "summary": "Any request for customer credentials, OTPs, or system passwords must be treated as a compromise attempt and reported immediately to the Information Security Incident Desk.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [2]
+    },
+    {
+      "key": "c_mobile_number_update_verification",
+      "name": "Verifying Mobile Number Update Requests",
+      "nameUr": "موبائل نمبر تبدیلی کی تصدیق",
+      "summary": "Mobile number changes are a common vector for account takeover fraud. Strict rules require the account holder's physical presence, original CNIC, NADRA biometric verification, and confirmation of the last three transactions before any change is processed.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [3]
+    },
+    {
+      "key": "c_no_third_party_mobile_change",
+      "name": "No Third-Party Mobile Number Changes",
+      "nameUr": "تیسرے فریق کی جانب سے موبائل نمبر تبدیلی ممنوع",
+      "summary": "A mobile number change can never be processed for a third party, family member, or via authority letter unless the Branch Manager provides written sign-off.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [3]
+    },
+    {
+      "key": "c_cheque_alteration_signs",
+      "name": "Identifying Signs of Cheque Alteration",
+      "nameUr": "چیک میں ردوبدل کی نشانیاں",
+      "summary": "Altered cheques often show inconsistent ink, chemical washing marks near the payee or amount, and mismatches between written words and numeric figures. Staff must inspect cheques carefully for these signs.",
+      "difficulty": 3,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [4]
+    },
+    {
+      "key": "c_high_value_cheque_verification",
+      "name": "Telephone Verification for High-Value Cheques",
+      "nameUr": "بڑی رقم کے چیک کی ٹیلی فون تصدیق",
+      "summary": "For cheques exceeding PKR 500,000, staff must call the drawer using the registered contact number on file before honoring the cheque. Numbers written on the back of the cheque must never be used.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [4]
+    },
+    {
+      "key": "c_fraud_escalation_protocol",
+      "name": "Fraud Escalation Protocol",
+      "nameUr": "فراڈ کی صورت میں انتظامی کارروائی کا طریقہ کار",
+      "summary": "When fraud is suspected, staff must avoid alerting the suspect, quietly inform the Branch Operations Manager, freeze the account in the core banking system, and log an incident report with Compliance and AML within two hours.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [5]
+    }
+  ],
+  "facts": [
+    {
+      "key": "f_no_password_request",
+      "conceptKey": "c_social_engineering",
+      "statement": "Head office and IT staff will never ask a branch officer for customer credentials, OTPs, or system passwords over the phone.",
+      "anchors": [
+        {
+          "end": 337,
+          "quote": "Head office and IT staff will never ask a branch officer for customer credentials, one-time passwords (OTPs), or system passwords over the phone",
+          "start": 193,
+          "chunkId": "01a0bfe5-6d44-7eef-871d-e1a26d13ce7c"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_report_incident_desk",
+      "conceptKey": "c_social_engineering",
+      "statement": "Any request for passwords or credentials from someone claiming to be IT or head office must be reported immediately to the Information Security Incident Desk.",
+      "anchors": [
+        {
+          "end": 475,
+          "quote": "Any such request must be treated as an attempt to compromise the bank and reported immediately to the Information Security Incident Desk",
+          "start": 339,
+          "chunkId": "01a0bfe5-6d44-7eef-871d-e1a26d13ce7c"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_impersonation_common",
+      "conceptKey": "c_social_engineering",
+      "statement": "Fraudsters frequently call or visit branches claiming to be regulatory officials, head office auditors, or IT support personnel to ask for passwords, overrides, or PINs.",
+      "anchors": [
+        {
+          "end": 184,
+          "quote": "Fraudsters frequently call or visit branches claiming to be regulatory officials, head office auditors, or IT support personnel asking for passwords, system overrides, or customer PINs",
+          "start": 0,
+          "chunkId": "01a0bfe5-6d44-7eef-871d-e1a26d13ce7c"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    }
+  ],
+  "missions": [
+    {
+      "ordinal": 0,
+      "chapterKey": "ch1_social_engineering",
+      "title": "The Fake IT Officer",
+      "primaryMechanic": "scenario",
+      "alternates": ["roleplay", "decision"],
+      "packStatus": "ready",
+      "pack": {
+        "beats": [
+          {
+            "id": "b1_intro",
+            "kind": "intro",
+            "next": {
+              "correct": "b2_scenario",
+              "partial": "b2_scenario",
+              "incorrect": "b2_scenario"
+            },
+            "text": "Your phone rings at the branch counter. A man says he's from Head Office IT and needs your system password urgently.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b2_scenario",
+            "kind": "scenario",
+            "next": {
+              "correct": "b3_consequence",
+              "partial": "b3_consequence",
+              "incorrect": "b3_consequence"
+            },
+            "text": "He sounds urgent: 'Server is down, give me your login password now or the branch will be locked out.'",
+            "speaker": "caller",
+            "questionId": "q1_first_response"
+          },
+          {
+            "id": "b3_consequence",
+            "kind": "consequence",
+            "next": {
+              "correct": "b4_roleplay",
+              "partial": "b4_roleplay",
+              "incorrect": "b4_roleplay"
+            },
+            "text": "Your reply shapes what happens next. A wrong move could hand the fraudster your credentials.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b4_roleplay",
+            "kind": "roleplay",
+            "next": {
+              "correct": "b5_teach",
+              "partial": "b5_teach",
+              "incorrect": "b5_teach"
+            },
+            "text": "He tries again, more insistent, claiming he'll escalate to your manager if you don't comply.",
+            "speaker": "caller",
+            "questionId": "q2_pressure_tactic"
+          },
+          {
+            "id": "b5_teach",
+            "kind": "teach_back",
+            "next": {
+              "correct": "b6_wrap",
+              "partial": "b6_wrap",
+              "incorrect": "b6_wrap"
+            },
+            "text": "A trainee asks: 'Why can't we just help IT quickly if they seem legit?'",
+            "speaker": "new_joiner",
+            "questionId": "q3_teach_back"
+          },
+          {
+            "id": "b6_wrap",
+            "kind": "wrap",
+            "next": {
+              "correct": null,
+              "partial": null,
+              "incorrect": null
+            },
+            "text": "You protected the bank by refusing and reporting. Vigilance against impersonators keeps systems and customers safe.",
+            "speaker": "narrator",
+            "questionId": null
+          }
+        ],
+        "title": {
+          "en": "The Fake IT Officer",
+          "ur": "جعلی آئی ٹی افسر",
+          "urLatn": "Jaali IT Afsar"
+        },
+        "mechanic": "scenario",
+        "roleplay": {
+          "goal": "Trick the branch staff into revealing their system password by posing as urgent IT support.",
+          "mood": "urgent and insistent",
+          "openers": [
+            "Hi, this is IT support, we need your password to fix a server issue right now.",
+            "Listen, the whole branch system will lock if you don't give me your login immediately.",
+            "I'm calling from Head Office IT, your manager already approved this, just give me the password."
+          ],
+          "behaviors": [
+            {
+              "id": "beh1_urgency",
+              "text": "Caller creates false urgency about a system lockout to pressure quick compliance.",
+              "factIds": ["f_impersonation_common"]
+            },
+            {
+              "id": "beh2_authority_claim",
+              "text": "Caller claims to be from Head Office or IT to sound authoritative.",
+              "factIds": ["f_impersonation_common"]
+            },
+            {
+              "id": "beh3_password_request",
+              "text": "Caller directly asks for the system password over the phone.",
+              "factIds": ["f_no_password_request"]
+            },
+            {
+              "id": "beh4_escalation_threat",
+              "text": "Caller threatens to involve management if the staff member refuses.",
+              "factIds": ["f_no_password_request"]
+            }
+          ],
+          "customerId": "caller_fake_it"
+        },
+        "callbacks": [
+          {
+            "id": "cb1_no_password_rule",
+            "prompt": "Can IT or Head Office ever ask you for your password over the phone?",
+            "keyPoints": [
+              "No, this is never allowed as per the rule.",
+              "Such a request should be treated as a compromise attempt."
+            ],
+            "conceptKey": "c_social_engineering"
+          },
+          {
+            "id": "cb2_reporting_action",
+            "prompt": "What should you do right after refusing a suspicious password request?",
+            "keyPoints": [
+              "Report it immediately to the Information Security Incident Desk.",
+              "Do not delay or ignore the incident."
+            ],
+            "conceptKey": "c_social_engineering"
+          }
+        ],
+        "objective": "Identify a social engineering attempt from a caller posing as IT support asking for a password.",
+        "questions": [
+          {
+            "id": "q1_first_response",
+            "kind": "choice",
+            "hints": [
+              "Think about what Head Office IT is actually allowed to ask for over the phone.",
+              "Remember the rule about credentials, OTPs, and passwords never being requested by phone.",
+              "The correct action combines refusing the request with reporting it immediately."
+            ],
+            "pairs": null,
+            "prompt": "The caller claims to be IT and demands your password. What do you do?",
+            "factIds": ["f_no_password_request", "f_report_incident_desk"],
+            "options": [
+              {
+                "id": "opt1_refuse_report",
+                "label": {
+                  "en": "Refuse and report to Information Security Incident Desk",
+                  "ur": "انکار کریں اور انفارمیشن سیکیورٹی انسیڈنٹ ڈیسک کو رپورٹ کریں",
+                  "urLatn": "Inkar karein aur Information Security Incident Desk ko report karein"
+                },
+                "correct": true,
+                "factIds": ["f_no_password_request", "f_report_incident_desk"],
+                "consequence": "You protect the bank and alert the right team immediately.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt2_give_password",
+                "label": {
+                  "en": "Give the password since he sounds official",
+                  "ur": "چونکہ وہ سرکاری لگتا ہے، پاسورڈ دے دیں",
+                  "urLatn": "Chunke woh sarkari lagta hai, password de dein"
+                },
+                "correct": false,
+                "factIds": ["f_no_password_request"],
+                "consequence": "You may have just handed a fraudster access to bank systems.",
+                "misconceptionId": "m_official_sounding_is_safe"
+              },
+              {
+                "id": "opt3_ask_callback_later",
+                "label": {
+                  "en": "Say you'll call back later and hang up without reporting",
+                  "ur": "کہیں کہ بعد میں کال کریں گے اور بغیر رپورٹ کیے فون بند کر دیں",
+                  "urLatn": "Kahein ke baad mein call karenge aur baghair report kiye phone band kar dein"
+                },
+                "correct": false,
+                "factIds": ["f_report_incident_desk"],
+                "consequence": "Delaying without reporting leaves the attempt unrecorded and risks recurrence.",
+                "misconceptionId": "m_no_need_to_report"
+              },
+              {
+                "id": "opt4_ask_manager_first",
+                "label": {
+                  "en": "Ask your manager if this is normal before refusing",
+                  "ur": "انکار کرنے سے پہلے مینیجر سے پوچھیں کہ کیا یہ معمول ہے",
+                  "urLatn": "Inkar karne se pehle manager se poochein ke kya yeh mamool hai"
+                },
+                "correct": false,
+                "factIds": ["f_no_password_request"],
+                "consequence": "This wastes time; the rule is clear that IT never asks for passwords by phone.",
+                "misconceptionId": "m_unsure_of_rule"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "An urgent caller claiming to be Head Office IT pressures you for your password to 'fix the server.' How do you respond?",
+              "standard": "The caller claims to be IT and demands your password. What do you do?",
+              "foundation": "A caller says he is IT and asks for your password. What is your first move?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_social_engineering",
+            "workedExample": "A caller claims to be IT and asks for your password. You refuse, explain the rule, and report the call to the Information Security Incident Desk right away."
+          },
+          {
+            "id": "q2_pressure_tactic",
+            "kind": "choice",
+            "hints": [
+              "Escalation threats are a common pressure tactic used by fraudsters.",
+              "The rule about not sharing passwords does not change under pressure.",
+              "The safe response always pairs refusal with reporting."
+            ],
+            "pairs": null,
+            "prompt": "The caller escalates, threatening to involve your manager if you don't share the password. What's the right response?",
+            "factIds": [
+              "f_impersonation_common",
+              "f_no_password_request",
+              "f_report_incident_desk"
+            ],
+            "options": [
+              {
+                "id": "opt1_hold_firm",
+                "label": {
+                  "en": "Stay firm, refuse, and report the call",
+                  "ur": "ثابت قدم رہیں، انکار کریں اور کال رپورٹ کریں",
+                  "urLatn": "Sabit qadam rahein, inkar karein aur call report karein"
+                },
+                "correct": true,
+                "factIds": ["f_no_password_request", "f_report_incident_desk"],
+                "consequence": "Pressure tactics don't change the rule; you correctly refuse and report.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt2_comply_to_avoid_trouble",
+                "label": {
+                  "en": "Give the password to avoid trouble with management",
+                  "ur": "انتظامیہ سے مسئلہ بچنے کے لیے پاسورڈ دے دیں",
+                  "urLatn": "Intezamia se masla bachne ke liye password de dein"
+                },
+                "correct": false,
+                "factIds": ["f_impersonation_common"],
+                "consequence": "Fear of escalation is exactly what fraudsters exploit to get credentials.",
+                "misconceptionId": "m_pressure_means_legit"
+              },
+              {
+                "id": "opt3_ignore_call",
+                "label": {
+                  "en": "Hang up and do nothing further",
+                  "ur": "فون بند کر دیں اور مزید کچھ نہ کریں",
+                  "urLatn": "Phone band kar dein aur mazeed kuch na karein"
+                },
+                "correct": false,
+                "factIds": ["f_report_incident_desk"],
+                "consequence": "Hanging up without reporting misses the chance to alert the bank to a real threat.",
+                "misconceptionId": "m_no_need_to_report"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The caller, posing as an auditor and IT staff, threatens escalation and urgency to pressure you. How should you respond?",
+              "standard": "The caller escalates, threatening to involve your manager if you don't share the password. What's the right response?",
+              "foundation": "The caller says he'll tell your manager if you refuse. What do you do?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_social_engineering",
+            "workedExample": "When the caller threatens to escalate, you calmly refuse again, note the details, and report the incident, since urgency and threats are common impersonation tactics."
+          },
+          {
+            "id": "q3_teach_back",
+            "kind": "teach_back",
+            "hints": [
+              "Start with what the rule says about phone requests for passwords.",
+              "Mention that this kind of call is a known scam pattern.",
+              "End with what action should follow if such a call happens."
+            ],
+            "pairs": null,
+            "prompt": "Explain to the trainee why staff should never give passwords to callers claiming to be IT, even if they seem legitimate.",
+            "factIds": [
+              "f_no_password_request",
+              "f_impersonation_common",
+              "f_report_incident_desk"
+            ],
+            "options": null,
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "Explain to the trainee the full reasoning, including why this is a common fraud tactic and what to do if it happens.",
+              "standard": "Explain to the trainee why staff should never give passwords to callers claiming to be IT, even if they seem legitimate.",
+              "foundation": "Explain simply why passwords should never be given to a caller claiming to be IT."
+            },
+            "answerKey": {
+              "rubric": [
+                "Mentions the rule that IT never requests passwords by phone",
+                "Identifies impersonation as a common fraud tactic",
+                "States the need to report the incident immediately"
+              ],
+              "keyPoints": [
+                {
+                  "text": "IT and Head Office never ask for passwords, OTPs, or credentials by phone.",
+                  "factIds": ["f_no_password_request"]
+                },
+                {
+                  "text": "Impersonating IT or officials is a known fraud tactic used to gain access.",
+                  "factIds": ["f_impersonation_common"]
+                },
+                {
+                  "text": "Any such request should be reported immediately to the Information Security Incident Desk.",
+                  "factIds": ["f_report_incident_desk"]
+                }
+              ]
+            },
+            "conceptKey": "c_social_engineering",
+            "workedExample": "Tell the trainee: IT never asks for passwords by phone, this is a common impersonation trick, and any such call must be reported to the Information Security Incident Desk right away."
+          }
+        ],
+        "teachBack": {
+          "ask": "Why can't we just help IT quickly if they seem legit?",
+          "followUp": "What should you do immediately after refusing such a call?",
+          "keyPoints": [
+            {
+              "text": "Head office and IT never ask for passwords, OTPs, or credentials over the phone, regardless of how legitimate they sound.",
+              "factIds": ["f_no_password_request"]
+            },
+            {
+              "text": "Such requests are a known fraud pattern used to compromise the bank.",
+              "factIds": ["f_impersonation_common"]
+            },
+            {
+              "text": "The correct action is to refuse and report to the Information Security Incident Desk.",
+              "factIds": ["f_report_incident_desk"]
+            }
+          ]
+        },
+        "alternates": ["roleplay", "decision"],
+        "missionKey": "m1_spot_impersonator",
+        "glossaryHints": [
+          {
+            "term": "OTP",
+            "speechUr": "او ٹی پی"
+          },
+          {
+            "term": "Information Security Incident Desk",
+            "speechUr": "انفارمیشن سیکیورٹی انسیڈنٹ ڈیسک"
+          },
+          {
+            "term": "IT support",
+            "speechUr": "آئی ٹی سپورٹ"
+          }
+        ]
+      },
+      "promptVersion": "design-2026-09-18",
+      "conceptKeys": ["c_social_engineering"]
+    },
+    {
+      "ordinal": 1,
+      "chapterKey": "ch1_social_engineering",
+      "title": "Raise the Alarm Quietly",
+      "primaryMechanic": "decision",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_report_credential_requests"]
+    },
+    {
+      "ordinal": 2,
+      "chapterKey": "ch2_mobile_fraud",
+      "title": "Verify Before You Update",
+      "primaryMechanic": "scenario",
+      "alternates": ["puzzle", "roleplay"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_mobile_number_update_verification"]
+    },
+    {
+      "ordinal": 3,
+      "chapterKey": "ch2_mobile_fraud",
+      "title": "Not Without the Branch Manager",
+      "primaryMechanic": "decision",
+      "alternates": ["roleplay", "scenario"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_no_third_party_mobile_change"]
+    },
+    {
+      "ordinal": 4,
+      "chapterKey": "ch3_cheque_fraud",
+      "title": "Spot the Forgery",
+      "primaryMechanic": "puzzle",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_cheque_alteration_signs"]
+    },
+    {
+      "ordinal": 5,
+      "chapterKey": "ch3_cheque_fraud",
+      "title": "Call the Real Number",
+      "primaryMechanic": "scenario",
+      "alternates": ["decision", "roleplay"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_high_value_cheque_verification"]
+    },
+    {
+      "ordinal": 6,
+      "chapterKey": "ch4_escalation",
+      "title": "Explain the Protocol",
+      "primaryMechanic": "teach_back",
+      "alternates": ["puzzle", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_fraud_escalation_protocol"]
+    },
+    {
+      "ordinal": 7,
+      "chapterKey": "ch4_escalation",
+      "title": "The Branch Under Threat",
+      "primaryMechanic": "final_challenge",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": [
+        "c_fraud_escalation_protocol",
+        "c_social_engineering",
+        "c_mobile_number_update_verification",
+        "c_cheque_alteration_signs"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "CNIC",
+      "termUr": "سی این آئی سی",
+      "termRoman": "CNIC",
+      "definition": "National identity card required for account holder verification and mobile number updates.",
+      "speechHint": "سی این آئی سی"
+    },
+    {
+      "termEn": "mobile banking",
+      "termUr": "موبائل بینکنگ",
+      "termRoman": "mobile banking",
+      "definition": "Digital banking service accessed via mobile phone that fraudsters target through OTP interception.",
+      "speechHint": "موبائل بینکنگ"
+    },
+    {
+      "termEn": "OTP",
+      "termUr": "او ٹی پی",
+      "termRoman": "OTP",
+      "definition": "One-time password sent to verify transactions and prevent unauthorized access to accounts.",
+      "speechHint": "او ٹی پی"
+    },
+    {
+      "termEn": "NADRA",
+      "termUr": "نادرا",
+      "termRoman": "NADRA",
+      "definition": "National Database and Registration Authority used to verify biometric thumb impressions.",
+      "speechHint": "نادرا"
+    },
+    {
+      "termEn": "biometric thumb impression",
+      "termUr": "بائیومیٹرک تھمب امپریشن",
+      "termRoman": "biometric thumb impression",
+      "definition": "Fingerprint verification matched against NADRA records for account holder authentication.",
+      "speechHint": "بائیومیٹرک تھمب امپریشن"
+    },
+    {
+      "termEn": "social engineering",
+      "termUr": "سوشل انجینئرنگ",
+      "termRoman": "social engineering",
+      "definition": "Fraudulent technique using deception to manipulate branch staff into revealing sensitive information.",
+      "speechHint": "سوشل انجینئرنگ"
+    },
+    {
+      "termEn": "identity theft",
+      "termUr": "شناخت کی چوری",
+      "termRoman": "identity theft",
+      "definition": "Unauthorized use of customer identity to access accounts or commit fraud.",
+      "speechHint": "آئیڈینٹٹی تھیفٹ"
+    },
+    {
+      "termEn": "unauthorized fund transfers",
+      "termUr": "غیر مجاز فنڈ ٹرانسفر",
+      "termRoman": "unauthorized fund transfers",
+      "definition": "Illegal movement of customer money without proper authorization or consent.",
+      "speechHint": "انآتھورائزڈ فنڈ ٹرانسفرز"
+    },
+    {
+      "termEn": "Information Security Incident Desk",
+      "termUr": "انفارمیشن سیکیورٹی انسڈنٹ ڈیسک",
+      "termRoman": "Information Security Incident Desk",
+      "definition": "Department responsible for receiving and handling security breach reports from branch staff.",
+      "speechHint": "انفارمیشن سیکیورٹی انسڈنٹ ڈیسک"
+    },
+    {
+      "termEn": "altered cheques",
+      "termUr": "تبدیل شدہ چیکس",
+      "termRoman": "altered cheques",
+      "definition": "Cheques fraudulently modified in amount, beneficiary name, or other critical details.",
+      "speechHint": "آلٹرڈ چیکس"
+    },
+    {
+      "termEn": "chemical washing",
+      "termUr": "کیمیائی دھلائی",
+      "termRoman": "chemical washing",
+      "definition": "Fraudulent technique using chemicals to erase cheque details for alteration.",
+      "speechHint": "کیمیکل واشنگ"
+    },
+    {
+      "termEn": "clearing cheque",
+      "termUr": "کلیئرنگ چیک",
+      "termRoman": "clearing cheque",
+      "definition": "Cheque processed through banking system for inter-bank fund transfer requiring verification.",
+      "speechHint": "کلیئرنگ چیک"
+    },
+    {
+      "termEn": "counter cheque",
+      "termUr": "کاؤنٹر چیک",
+      "termRoman": "counter cheque",
+      "definition": "Cheque issued directly at bank counter requiring verification before processing.",
+      "speechHint": "کاؤنٹر چیک"
+    },
+    {
+      "termEn": "PKR 500,000",
+      "termUr": "پی کے آر پانچ لاکھ",
+      "termRoman": "PKR 500,000",
+      "definition": "Pakistani rupees threshold amount requiring mandatory telephone confirmation before cheque clearance.",
+      "speechHint": "پی کے آر پانچ لاکھ"
+    },
+    {
+      "termEn": "drawer",
+      "termUr": "ڈرائر",
+      "termRoman": "drawer",
+      "definition": "Person who issues a cheque and must be contacted for verification of large amounts.",
+      "speechHint": "ڈرائر"
+    },
+    {
+      "termEn": "Branch Operations Manager",
+      "termUr": "برانچ آپریشنز مینیجر",
+      "termRoman": "Branch Operations Manager",
+      "definition": "Senior staff member responsible for receiving fraud alerts and freezing accounts.",
+      "speechHint": "برانچ آپریشنز مینیجر"
+    },
+    {
+      "termEn": "core banking system",
+      "termUr": "کور بینکنگ سسٹم",
+      "termRoman": "core banking system",
+      "definition": "Central banking platform used to freeze accounts and prevent unauthorized transfers.",
+      "speechHint": "کور بینکنگ سسٹم"
+    },
+    {
+      "termEn": "incident report",
+      "termUr": "واقعہ کی رپورٹ",
+      "termRoman": "incident report",
+      "definition": "Formal documentation of suspected fraud submitted to compliance unit within two hours.",
+      "speechHint": "انسڈنٹ ریپورٹ"
+    },
+    {
+      "termEn": "Compliance and Anti-Money Laundering unit",
+      "termUr": "کمپلائنس اور منی لانڈرنگ یونٹ",
+      "termRoman": "Compliance and Anti-Money Laundering unit",
+      "definition": "Department receiving fraud incident reports and managing regulatory compliance matters.",
+      "speechHint": "کمپلائنس اینڈ انٹی منی لانڈرنگ یونٹ"
+    },
+    {
+      "termEn": "Branch Manager sign-off",
+      "termUr": "برانچ مینیجر کی منظوری",
+      "termRoman": "Branch Manager sign-off",
+      "definition": "Written authorization from Branch Manager required for sensitive account changes like mobile number updates.",
+      "speechHint": "برانچ مینیجر سائن آف"
+    }
+  ]
+}

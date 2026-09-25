@@ -1,0 +1,1151 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-21T09:45:00.441Z",
+  "content": {
+    "title": "account-opening-kyc",
+    "sourceType": "paste",
+    "sourceHash": "31fc7d202a96042db280ad9bff54946ae1731c6ad13cc5a4c275a286b22d4ef3",
+    "parserVersion": "v1",
+    "langPrimary": "en",
+    "status": "ready",
+    "stats": {
+      "bytes": 5141,
+      "chars": 4852,
+      "chunks": 11,
+      "tokens": 1140,
+      "scanned": false,
+      "redactions": 0,
+      "injectionFlags": 0
+    },
+    "warnings": []
+  },
+  "chunks": [
+    {
+      "ordinal": 0,
+      "text": "Account opening and know your customer (KYC)",
+      "anchorKind": "section",
+      "anchorRef": "1",
+      "charStart": 0,
+      "charEnd": 44,
+      "headingPath": ["Account opening and know your customer (KYC)"],
+      "tokenCount": 11,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 1,
+      "text": "This guide covers the steps a branch officer follows to open a personal current or savings account, the documents required, and the checks that protect the customer and the bank. It applies to walk-in customers at any branch. Business accounts follow a separate procedure.",
+      "anchorKind": "section",
+      "anchorRef": "2",
+      "charStart": 0,
+      "charEnd": 272,
+      "headingPath": ["Purpose"],
+      "tokenCount": 68,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 2,
+      "text": "Ask what the customer wants the account for: salary, savings, remittances or daily payments. The answer decides the product. A salaried customer who wants a debit card and mobile banking usually needs a current account. A customer saving for a goal needs a savings account, which pays profit monthly and has a minimum balance of five thousand rupees.\n\nExplain the fees before the form: the debit card fee, the SMS alert fee and any minimum balance charge. A customer who learns about fees from the first statement will not trust the branch again.",
+      "anchorKind": "section",
+      "anchorRef": "3",
+      "charStart": 0,
+      "charEnd": 546,
+      "headingPath": ["Step 1: Understand the need"],
+      "tokenCount": 137,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 3,
+      "text": "Ask for the original computerized national identity card (CNIC). A photocopy, a photo on a phone or an expired card is not accepted. Check three things: the photograph matches the person, the card has not expired, and the name matches the form exactly, including spelling.\n\nRun the NADRA verification in the system. The verification returns a match within seconds; if it fails twice, stop and involve the branch operations manager. Do not proceed on a third attempt without approval.\n\nFor customers who cannot sign, record a thumb impression in the presence of the branch operations manager and note it on the form.",
+      "anchorKind": "section",
+      "anchorRef": "4",
+      "charStart": 0,
+      "charEnd": 615,
+      "headingPath": ["Step 2: Verify identity"],
+      "tokenCount": 154,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 4,
+      "text": "The KYC form records the source of income, the expected monthly turnover, the purpose of the account and whether the customer is a politically exposed person. Fill it with the customer, not for the customer. Read each answer back.\n\nTypical turnover for a salaried customer equals about one to two months of salary. A declared turnover that is ten times the salary needs an explanation and the manager's sign-off. Record the explanation in the notes field, not on a sticky note.",
+      "anchorKind": "section",
+      "anchorRef": "5",
+      "charStart": 0,
+      "charEnd": 477,
+      "headingPath": ["Step 3: Complete the KYC form"],
+      "tokenCount": 120,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 5,
+      "text": "| Customer type | Documents |\n| ------------------ | ----------------------------------------------------------------------------------------- |\n| Salaried | CNIC, salary slip or employer letter |\n| Self-employed | CNIC, proof of business such as a tax registration or a utility bill in the business name |\n| Student | CNIC, student card, and the guardian's CNIC for customers under eighteen |\n| Pensioner | CNIC and the pension book or letter |\n| Overseas Pakistani | CNIC or NICOP and proof of overseas income |\n\nScan each document into the system, return the originals, and confirm on the checklist that every scan is readable.",
+      "anchorKind": "section",
+      "anchorRef": "6",
+      "charStart": 0,
+      "charEnd": 630,
+      "headingPath": ["Step 4: Collect supporting documents"],
+      "tokenCount": 158,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 6,
+      "text": "Take the specimen signature on the card and in the system. The customer signs the same way every time; if the two signatures differ, ask for a third and keep the closest two. Capture the biometric thumb impression when the device is available.",
+      "anchorKind": "section",
+      "anchorRef": "7",
+      "charStart": 0,
+      "charEnd": 243,
+      "headingPath": ["Step 5: Capture signatures and biometrics"],
+      "tokenCount": 61,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 7,
+      "text": "Once the account is approved, give the customer the account number in writing, explain how to register for mobile banking, and tell them when the debit card will arrive (usually seven working days by courier to the registered address). Send the welcome SMS from the system.\n\nConfirm the registered mobile number by reading back only the last four digits. The customer must own the number; a family member's number is not accepted because one-time passwords go to it.",
+      "anchorKind": "section",
+      "anchorRef": "8",
+      "charStart": 0,
+      "charEnd": 466,
+      "headingPath": ["Step 6: Activate and hand over"],
+      "tokenCount": 117,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 8,
+      "text": "- The customer's CNIC address differs from the current address. Accept a utility bill or a rental agreement as proof of the current address and record both.\n- The customer wants to open the account for someone else. Every personal account is opened by the account holder in person. Explain politely and offer to book a time.\n- The customer refuses to declare the source of income. The account cannot be opened. Explain that the declaration is a regulatory requirement, not a bank preference.\n- The system verification is down. Do not open the account on paper. Take the customer's details, give a reference number and call back within one working day.",
+      "anchorKind": "section",
+      "anchorRef": "9",
+      "charStart": 0,
+      "charEnd": 651,
+      "headingPath": ["What can go wrong"],
+      "tokenCount": 163,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 9,
+      "text": "A complete opening takes about twenty minutes when the customer has every document. Tell the customer this at the start. Missing documents add a second visit; offer a checklist on the spot so the second visit succeeds.",
+      "anchorKind": "section",
+      "anchorRef": "10",
+      "charStart": 0,
+      "charEnd": 218,
+      "headingPath": ["Timing"],
+      "tokenCount": 55,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 10,
+      "text": "Why do we verify identity before completing the KYC form? Because every later step depends on knowing who the customer is; a form completed for the wrong person cannot be corrected.\n\nA customer declares a turnover of two million rupees a month on a salary of eighty thousand. What do you do? Ask for the reason, record it, and get the manager's sign-off before opening the account.",
+      "anchorKind": "section",
+      "anchorRef": "11",
+      "charStart": 0,
+      "charEnd": 381,
+      "headingPath": ["Practice questions"],
+      "tokenCount": 96,
+      "lang": "en",
+      "injectionFlag": false
+    }
+  ],
+  "journey": {
+    "title": "Opening the Right Way: A Branch Officer's KYC Journey",
+    "outline": {
+      "story": {
+        "premise": "Ahmed, a newly hired branch officer, is guided by his senior colleague Sana through his first days of opening personal accounts, meeting a variety of customers whose situations test his understanding of KYC, documentation, and judgment calls.",
+        "setting": "A busy urban branch of a fictional bank in Pakistan, on the officer's first week handling walk-in customers.",
+        "characters": [
+          {
+            "id": "ahmed",
+            "mood": "eager but nervous",
+            "name": "Ahmed",
+            "role": "New branch officer being trained",
+            "voiceProfile": "new_joiner"
+          },
+          {
+            "id": "sana",
+            "mood": "patient and precise",
+            "name": "Sana",
+            "role": "Senior branch operations officer and mentor",
+            "voiceProfile": "guide"
+          },
+          {
+            "id": "mr_iqbal",
+            "mood": "a little confused about paperwork",
+            "name": "Mr. Iqbal",
+            "role": "Elderly pensioner customer opening a savings account",
+            "voiceProfile": "customer_elder"
+          },
+          {
+            "id": "zara",
+            "mood": "impatient and in a hurry",
+            "name": "Zara",
+            "role": "Young salaried customer wanting a current account and debit card",
+            "voiceProfile": "customer_young"
+          }
+        ]
+      },
+      "title": "Opening the Right Way: A Branch Officer's KYC Journey",
+      "summary": "A story-driven learning journey that walks a new branch officer through the full personal account opening process at a fictional bank branch, covering identity verification, KYC data capture, product matching, documentation, signatures, closing steps, and handling exceptions safely.",
+      "chapters": [
+        {
+          "key": "ch1_foundations",
+          "title": "Meeting the Customer",
+          "arcBeat": "The new officer greets the first walk-in customer and learns to ask the right questions before touching any form.",
+          "missions": [
+            {
+              "key": "m1_needs",
+              "title": "What Does the Customer Really Need?",
+              "mechanic": "scenario",
+              "objective": "Determine the right account product based on customer intent and explain fees clearly.",
+              "alternates": ["decision", "roleplay"],
+              "conceptKeys": ["c_needs_assessment"]
+            },
+            {
+              "key": "m2_verify",
+              "title": "The Original CNIC Only",
+              "mechanic": "scenario",
+              "objective": "Correctly verify a customer's identity using CNIC checks and NADRA verification, including handling a failed match.",
+              "alternates": ["roleplay", "decision"],
+              "conceptKeys": ["c_verify_identity"]
+            }
+          ]
+        },
+        {
+          "key": "ch2_paperwork",
+          "title": "Building the File",
+          "arcBeat": "The officer now assembles the full customer file, balancing accuracy with the pressure of a busy branch queue.",
+          "missions": [
+            {
+              "key": "m3_kyc",
+              "title": "Filling the KYC Form Together",
+              "mechanic": "roleplay",
+              "objective": "Complete the KYC form with the customer, reading back answers and spotting a turnover mismatch that needs escalation.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_kyc_form"]
+            },
+            {
+              "key": "m4_docs_signature",
+              "title": "Matching Documents and Capturing Signatures",
+              "mechanic": "puzzle",
+              "objective": "Select the correct required documents for different customer types and capture a valid specimen signature and biometric.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_signature_biometric"]
+            }
+          ]
+        },
+        {
+          "key": "ch3_closing",
+          "title": "Sending the Customer Off Right",
+          "arcBeat": "With the file complete, the officer must close the interaction properly so the customer trusts the branch from day one.",
+          "missions": [
+            {
+              "key": "m5_closing",
+              "title": "The Welcome Message",
+              "mechanic": "roleplay",
+              "objective": "Deliver the account number, explain mobile banking and card delivery, and confirm the customer's own mobile number.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_account_closing_steps", "c_service_expectations"]
+            }
+          ]
+        },
+        {
+          "key": "ch4_exceptions",
+          "title": "When Things Don't Go as Planned",
+          "arcBeat": "The officer faces the tricky cases that separate a well-trained staff member from one who guesses under pressure.",
+          "missions": [
+            {
+              "key": "m6_exceptions",
+              "title": "Four Tricky Customers",
+              "mechanic": "decision",
+              "objective": "Choose the correct response for mismatched address, third-party account requests, refused income declaration, and system downtime.",
+              "alternates": ["scenario", "final_challenge"],
+              "conceptKeys": ["c_exception_handling"]
+            },
+            {
+              "key": "m7_final",
+              "title": "A Full Account Opening, Start to Finish",
+              "mechanic": "final_challenge",
+              "objective": "Handle a complete walk-in customer case end to end, applying identity verification, KYC, documentation, signatures, and exception judgment.",
+              "alternates": ["scenario", "roleplay"],
+              "conceptKeys": ["c_verify_identity", "c_kyc_form", "c_exception_handling"]
+            }
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "key": "c_needs_assessment",
+          "name": "Understanding customer needs and product fit",
+          "nameUr": "کسٹمر کی ضرورت اور پروڈکٹ کا تعین",
+          "summary": "Asking the customer the purpose of the account (salary, savings, remittances, payments) to decide between current and savings account, and explaining fees upfront before filling the form.",
+          "chunkIds": ["01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": []
+        },
+        {
+          "key": "c_verify_identity",
+          "name": "Verifying customer identity with CNIC and NADRA",
+          "nameUr": "شناختی کارڈ اور نادرا سے تصدیق",
+          "summary": "Checking the original CNIC for photo match, expiry and exact name match, running NADRA verification, and handling failed attempts or thumb impressions for customers who cannot sign.",
+          "chunkIds": ["01a0bfe3-a55a-7b2b-9a9a-47cea28283a8"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": []
+        },
+        {
+          "key": "c_kyc_form",
+          "name": "Completing the KYC form accurately",
+          "nameUr": "کے وائی سی فارم کی درست تکمیل",
+          "summary": "Filling the KYC form together with the customer to record source of income, expected turnover, purpose of account and politically exposed person status, reading back each answer, and escalating unusual turnover declarations.",
+          "chunkIds": [
+            "01a0bfe3-a55a-78e3-9436-64bceb11f5dd",
+            "01a0bfe3-a55a-793f-8179-c1513bfec488"
+          ],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": ["c_verify_identity"]
+        },
+        {
+          "key": "c_signature_biometric",
+          "name": "Capturing specimen signature and biometrics",
+          "nameUr": "دستخط اور بائیومیٹرک نمونہ لینا",
+          "summary": "Taking a consistent specimen signature on the card and in the system, resolving mismatched signatures, and capturing a biometric thumb impression when available.",
+          "chunkIds": ["01a0bfe3-a55a-72bf-a91a-b89836b29233"],
+          "difficulty": 2,
+          "importance": 3,
+          "prerequisites": ["c_verify_identity"]
+        },
+        {
+          "key": "c_account_closing_steps",
+          "name": "Closing the account opening interaction",
+          "nameUr": "اکاؤنٹ کھولنے کے عمل کی تکمیل",
+          "summary": "Giving the account number in writing, explaining mobile banking registration and debit card delivery timing, sending the welcome SMS, and confirming the registered mobile number belongs to the customer.",
+          "chunkIds": ["01a0bfe3-a55a-738d-b038-972d47e559d6"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_kyc_form", "c_signature_biometric"]
+        },
+        {
+          "key": "c_exception_handling",
+          "name": "Handling exceptions and edge cases",
+          "nameUr": "غیر معمولی صورتحال سے نمٹنا",
+          "summary": "Responding correctly when the CNIC address differs from current address, someone tries to open an account for another person, a customer refuses to declare income source, or system verification is down.",
+          "chunkIds": ["01a0bfe3-a55a-7fac-823b-b1724dda8ebe"],
+          "difficulty": 4,
+          "importance": 5,
+          "prerequisites": ["c_kyc_form"]
+        },
+        {
+          "key": "c_service_expectations",
+          "name": "Setting time expectations and reducing repeat visits",
+          "nameUr": "وقت کی توقعات اور دوبارہ آمد کم کرنا",
+          "summary": "Telling the customer the process takes about twenty minutes with complete documents, and offering a checklist to prevent a wasted second visit when documents are missing.",
+          "chunkIds": ["01a0bfe3-a55a-72ec-ac5e-6d9a4a146103"],
+          "difficulty": 1,
+          "importance": 2,
+          "prerequisites": []
+        }
+      ],
+      "warnings": ["Concept c_required_documents: 1 unknown chunk reference(s) dropped."]
+    },
+    "story": {
+      "premise": "Ahmed, a newly hired branch officer, is guided by his senior colleague Sana through his first days of opening personal accounts, meeting a variety of customers whose situations test his understanding of KYC, documentation, and judgment calls.",
+      "setting": "A busy urban branch of a fictional bank in Pakistan, on the officer's first week handling walk-in customers.",
+      "characters": [
+        {
+          "id": "ahmed",
+          "mood": "eager but nervous",
+          "name": "Ahmed",
+          "role": "New branch officer being trained",
+          "voiceProfile": "new_joiner"
+        },
+        {
+          "id": "sana",
+          "mood": "patient and precise",
+          "name": "Sana",
+          "role": "Senior branch operations officer and mentor",
+          "voiceProfile": "guide"
+        },
+        {
+          "id": "mr_iqbal",
+          "mood": "a little confused about paperwork",
+          "name": "Mr. Iqbal",
+          "role": "Elderly pensioner customer opening a savings account",
+          "voiceProfile": "customer_elder"
+        },
+        {
+          "id": "zara",
+          "mood": "impatient and in a hurry",
+          "name": "Zara",
+          "role": "Young salaried customer wanting a current account and debit card",
+          "voiceProfile": "customer_young"
+        }
+      ]
+    },
+    "designHash": "da8b2b66130a3dec69753aa241bf7fd8fcb936e015bc958c701db06cdaa3610a",
+    "status": "ready",
+    "promptVersion": "design-2026-09-18"
+  },
+  "concepts": [
+    {
+      "key": "c_needs_assessment",
+      "name": "Understanding customer needs and product fit",
+      "nameUr": "کسٹمر کی ضرورت اور پروڈکٹ کا تعین",
+      "summary": "Asking the customer the purpose of the account (salary, savings, remittances, payments) to decide between current and savings account, and explaining fees upfront before filling the form.",
+      "difficulty": 1,
+      "importance": 3,
+      "misconceptions": [],
+      "chunkOrdinals": [2]
+    },
+    {
+      "key": "c_verify_identity",
+      "name": "Verifying customer identity with CNIC and NADRA",
+      "nameUr": "شناختی کارڈ اور نادرا سے تصدیق",
+      "summary": "Checking the original CNIC for photo match, expiry and exact name match, running NADRA verification, and handling failed attempts or thumb impressions for customers who cannot sign.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [3]
+    },
+    {
+      "key": "c_kyc_form",
+      "name": "Completing the KYC form accurately",
+      "nameUr": "کے وائی سی فارم کی درست تکمیل",
+      "summary": "Filling the KYC form together with the customer to record source of income, expected turnover, purpose of account and politically exposed person status, reading back each answer, and escalating unusual turnover declarations.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [4, 10]
+    },
+    {
+      "key": "c_signature_biometric",
+      "name": "Capturing specimen signature and biometrics",
+      "nameUr": "دستخط اور بائیومیٹرک نمونہ لینا",
+      "summary": "Taking a consistent specimen signature on the card and in the system, resolving mismatched signatures, and capturing a biometric thumb impression when available.",
+      "difficulty": 2,
+      "importance": 3,
+      "misconceptions": [],
+      "chunkOrdinals": [6]
+    },
+    {
+      "key": "c_account_closing_steps",
+      "name": "Closing the account opening interaction",
+      "nameUr": "اکاؤنٹ کھولنے کے عمل کی تکمیل",
+      "summary": "Giving the account number in writing, explaining mobile banking registration and debit card delivery timing, sending the welcome SMS, and confirming the registered mobile number belongs to the customer.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [7]
+    },
+    {
+      "key": "c_exception_handling",
+      "name": "Handling exceptions and edge cases",
+      "nameUr": "غیر معمولی صورتحال سے نمٹنا",
+      "summary": "Responding correctly when the CNIC address differs from current address, someone tries to open an account for another person, a customer refuses to declare income source, or system verification is down.",
+      "difficulty": 4,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [8]
+    },
+    {
+      "key": "c_service_expectations",
+      "name": "Setting time expectations and reducing repeat visits",
+      "nameUr": "وقت کی توقعات اور دوبارہ آمد کم کرنا",
+      "summary": "Telling the customer the process takes about twenty minutes with complete documents, and offering a checklist to prevent a wasted second visit when documents are missing.",
+      "difficulty": 1,
+      "importance": 2,
+      "misconceptions": [],
+      "chunkOrdinals": [9]
+    }
+  ],
+  "facts": [
+    {
+      "key": "f_needs_purpose_question",
+      "conceptKey": "c_needs_assessment",
+      "statement": "Ask what the customer wants the account for: salary, savings, remittances or daily payments, since the answer decides the product.",
+      "anchors": [
+        {
+          "end": 123,
+          "quote": "Ask what the customer wants the account for: salary, savings, remittances or daily payments. The answer decides the product",
+          "start": 0,
+          "chunkId": "01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_needs_current_account_fit",
+      "conceptKey": "c_needs_assessment",
+      "statement": "A salaried customer who wants a debit card and mobile banking usually needs a current account.",
+      "anchors": [
+        {
+          "end": 218,
+          "quote": "A salaried customer who wants a debit card and mobile banking usually needs a current account",
+          "start": 125,
+          "chunkId": "01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_needs_savings_account_fit",
+      "conceptKey": "c_needs_assessment",
+      "statement": "A customer saving for a goal needs a savings account, which pays profit monthly and has a minimum balance of five thousand rupees.",
+      "anchors": [
+        {
+          "end": 349,
+          "quote": "A customer saving for a goal needs a savings account, which pays profit monthly and has a minimum balance of five thousand rupees",
+          "start": 220,
+          "chunkId": "01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_needs_explain_fees_upfront",
+      "conceptKey": "c_needs_assessment",
+      "statement": "Explain the debit card fee, the SMS alert fee and any minimum balance charge before the form, not after.",
+      "anchors": [
+        {
+          "end": 454,
+          "quote": "Explain the fees before the form: the debit card fee, the SMS alert fee and any minimum balance charge",
+          "start": 352,
+          "chunkId": "01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_needs_trust_risk",
+      "conceptKey": "c_needs_assessment",
+      "statement": "A customer who learns about fees from the first statement will not trust the branch again.",
+      "anchors": [
+        {
+          "end": 545,
+          "quote": "A customer who learns about fees from the first statement will not trust the branch again",
+          "start": 456,
+          "chunkId": "01a0bfe3-a55a-75b0-8b4e-e3e2848f7659"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    }
+  ],
+  "missions": [
+    {
+      "ordinal": 0,
+      "chapterKey": "ch1_foundations",
+      "title": "What Does the Customer Really Need?",
+      "primaryMechanic": "scenario",
+      "alternates": ["decision", "roleplay"],
+      "packStatus": "ready",
+      "pack": {
+        "beats": [
+          {
+            "id": "b1_intro",
+            "kind": "intro",
+            "next": {
+              "correct": "b2_scenario",
+              "partial": "b2_scenario",
+              "incorrect": "b2_scenario"
+            },
+            "text": "A customer walks up to your counter. Your job: find out why they need an account before suggesting one.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b2_scenario",
+            "kind": "scenario",
+            "next": {
+              "correct": "b3_fees",
+              "partial": "b3_fees",
+              "incorrect": "b3_fees_retry"
+            },
+            "text": "I get my salary here and want a debit card plus mobile banking. What account should I open?",
+            "speaker": "customer_ahmed",
+            "questionId": "q1_product_choice"
+          },
+          {
+            "id": "b3_fees_retry",
+            "kind": "consequence",
+            "next": {
+              "correct": "b3_fees",
+              "partial": "b3_fees",
+              "incorrect": "b3_fees"
+            },
+            "text": "Wrong product suggested. Ask about purpose first: salary, savings, remittances or daily payments.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b3_fees",
+            "kind": "question",
+            "next": {
+              "correct": "b4_roleplay",
+              "partial": "b4_roleplay",
+              "incorrect": "b4_roleplay"
+            },
+            "text": "Now explain the fees clearly before the customer signs the form.",
+            "speaker": "narrator",
+            "questionId": "q2_fees_explain"
+          },
+          {
+            "id": "b4_roleplay",
+            "kind": "roleplay",
+            "next": {
+              "correct": "b5_teach",
+              "partial": "b5_teach",
+              "incorrect": "b5_teach"
+            },
+            "text": "A saver walks in wanting to grow money for a goal. Practice the conversation.",
+            "speaker": "customer_sana",
+            "questionId": "q3_savings_scenario"
+          },
+          {
+            "id": "b5_teach",
+            "kind": "teach_back",
+            "next": {
+              "correct": "b6_wrap",
+              "partial": "b6_wrap",
+              "incorrect": "b6_wrap"
+            },
+            "text": "Bilal, a new joiner, asks why we ask about purpose before suggesting a product.",
+            "speaker": "new_joiner_bilal",
+            "questionId": null
+          },
+          {
+            "id": "b6_wrap",
+            "kind": "wrap",
+            "next": {
+              "correct": null,
+              "partial": null,
+              "incorrect": null
+            },
+            "text": "Good work. Ask purpose first, match the product, and explain fees before the form is signed.",
+            "speaker": "narrator",
+            "questionId": null
+          }
+        ],
+        "title": {
+          "en": "What Does the Customer Really Need?",
+          "ur": "کسٹمر کو اصل میں کیا چاہیے؟",
+          "urLatn": "Customer ko asal mein kya chahiye?"
+        },
+        "mechanic": "scenario",
+        "roleplay": {
+          "goal": "Open an account to save money toward a personal goal",
+          "mood": "hopeful but cautious about hidden costs",
+          "openers": [
+            "I want to save some money every month for a goal.",
+            "Which account will help me save, and what will it cost me?",
+            "I've been told other banks hide fees. Will you be upfront with me?"
+          ],
+          "behaviors": [
+            {
+              "id": "beh_asks_purpose",
+              "text": "Staff asks what the account is for before recommending anything.",
+              "factIds": ["f_needs_purpose_question"]
+            },
+            {
+              "id": "beh_suggests_savings",
+              "text": "Staff suggests the savings account because she wants to save for a goal.",
+              "factIds": ["f_needs_savings_account_fit"]
+            },
+            {
+              "id": "beh_mentions_balance",
+              "text": "Staff mentions the minimum balance and monthly profit detail clearly.",
+              "factIds": ["f_needs_savings_account_fit"]
+            },
+            {
+              "id": "beh_explains_fees_early",
+              "text": "Staff explains applicable fees before she signs any form.",
+              "factIds": ["f_needs_explain_fees_upfront"]
+            },
+            {
+              "id": "beh_builds_trust",
+              "text": "Staff notes that explaining fees early avoids surprises and builds trust.",
+              "factIds": ["f_needs_trust_risk"]
+            }
+          ],
+          "customerId": "customer_sana"
+        },
+        "callbacks": [
+          {
+            "id": "cb1_purpose",
+            "prompt": "What question should you always ask before suggesting an account product?",
+            "keyPoints": [
+              "Ask what the customer wants the account for: salary, savings, remittances or daily payments.",
+              "The answer decides which product to suggest."
+            ],
+            "conceptKey": "c_needs_assessment"
+          },
+          {
+            "id": "cb2_fees_timing",
+            "prompt": "When should fees be explained to a new customer?",
+            "keyPoints": [
+              "Explain fees before the form is signed, not after.",
+              "A customer surprised by fees on the first statement loses trust in the branch."
+            ],
+            "conceptKey": "c_needs_assessment"
+          }
+        ],
+        "objective": "Determine the right account product based on customer intent and explain fees clearly.",
+        "questions": [
+          {
+            "id": "q1_product_choice",
+            "kind": "choice",
+            "hints": [
+              "Think about what he already told you he wants to use the account for.",
+              "A debit card and mobile banking point to one specific product type.",
+              "Match his stated need to the account built for salary and daily use."
+            ],
+            "pairs": null,
+            "prompt": "A salaried customer wants a debit card and mobile banking. Which account fits best?",
+            "factIds": ["f_needs_purpose_question", "f_needs_current_account_fit"],
+            "options": [
+              {
+                "id": "opt_current",
+                "label": {
+                  "en": "Current account",
+                  "ur": "کرنٹ اکاؤنٹ",
+                  "urLatn": "Current account"
+                },
+                "correct": true,
+                "factIds": ["f_needs_current_account_fit"],
+                "consequence": "Correct fit for salary, debit card and mobile banking needs.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_savings",
+                "label": {
+                  "en": "Savings account",
+                  "ur": "سیونگز اکاؤنٹ",
+                  "urLatn": "Savings account"
+                },
+                "correct": false,
+                "factIds": ["f_needs_savings_account_fit"],
+                "consequence": "This suits goal-based saving, not daily card and mobile use.",
+                "misconceptionId": "m_ignore_purpose"
+              },
+              {
+                "id": "opt_ask_more",
+                "label": {
+                  "en": "Ask what the account is for",
+                  "ur": "پوچھیں اکاؤنٹ کس لیے چاہیے",
+                  "urLatn": "Poochein account kis liye chahiye"
+                },
+                "correct": false,
+                "factIds": ["f_needs_purpose_question"],
+                "consequence": "He already told you his purpose; use that answer to decide.",
+                "misconceptionId": "m_ignore_stated_purpose"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "A salaried customer wants a debit card and mobile banking, and mentions no interest in saving toward a goal. Which account fits their stated purpose?",
+              "standard": "A salaried customer wants a debit card and mobile banking. Which account should you suggest?",
+              "foundation": "Salaried customer wants a debit card and mobile banking. Pick the right account."
+            },
+            "answerKey": null,
+            "conceptKey": "c_needs_assessment",
+            "workedExample": "Customer says he wants a debit card and mobile banking for his salary. That matches the current account, since it fits daily card and mobile use."
+          },
+          {
+            "id": "q2_fees_explain",
+            "kind": "choice",
+            "hints": [
+              "Think about when trust can be damaged versus preserved.",
+              "The fees should be mentioned at a specific stage in the process, not left for later.",
+              "Explain fees before the form, not after the first statement arrives."
+            ],
+            "pairs": null,
+            "prompt": "When should you explain the debit card, SMS alert and minimum balance fees?",
+            "factIds": ["f_needs_explain_fees_upfront", "f_needs_trust_risk"],
+            "options": [
+              {
+                "id": "opt_before_form",
+                "label": {
+                  "en": "Before the form is signed",
+                  "ur": "فارم پر دستخط سے پہلے",
+                  "urLatn": "Form par dastkhat se pehle"
+                },
+                "correct": true,
+                "factIds": ["f_needs_explain_fees_upfront", "f_needs_trust_risk"],
+                "consequence": "Correct. This builds trust and avoids surprises later.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_after_statement",
+                "label": {
+                  "en": "Let them see it on the first statement",
+                  "ur": "پہلے سٹیٹمنٹ پر دیکھنے دیں",
+                  "urLatn": "Pehle statement par dekhne dein"
+                },
+                "correct": false,
+                "factIds": ["f_needs_trust_risk"],
+                "consequence": "This damages trust; the customer feels misled.",
+                "misconceptionId": "m_fees_later_ok"
+              },
+              {
+                "id": "opt_only_if_asked",
+                "label": {
+                  "en": "Only if the customer asks",
+                  "ur": "صرف اگر کسٹمر پوچھے",
+                  "urLatn": "Sirf agar customer poochay"
+                },
+                "correct": false,
+                "factIds": ["f_needs_explain_fees_upfront"],
+                "consequence": "Fees should be explained proactively, not only on request.",
+                "misconceptionId": "m_fees_only_on_ask"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "A customer is eager to sign quickly. When should you still explain the fees, and why does timing matter?",
+              "standard": "At what point should you explain the debit card fee, SMS alert fee and minimum balance charge?",
+              "foundation": "When should fees be explained to the customer?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_needs_assessment",
+            "workedExample": "Before the customer signs, mention the debit card fee, SMS alert fee and minimum balance charge, so nothing is a surprise on the first statement."
+          },
+          {
+            "id": "q3_savings_scenario",
+            "kind": "choice",
+            "hints": [
+              "Consider which account is designed for someone saving toward a goal.",
+              "Remember the specific balance and profit detail tied to that account.",
+              "Match her saving purpose to the account, then mention its known minimum balance."
+            ],
+            "pairs": null,
+            "prompt": "A customer says she wants to save money for a goal. Which account and detail should you mention?",
+            "factIds": ["f_needs_savings_account_fit"],
+            "options": [
+              {
+                "id": "opt_savings_correct",
+                "label": {
+                  "en": "Savings account, mention the minimum balance and monthly profit",
+                  "ur": "سیونگز اکاؤنٹ، کم از کم بیلنس اور ماہانہ منافع بتائیں",
+                  "urLatn": "Savings account, kam az kam balance aur mahana profit batayein"
+                },
+                "correct": true,
+                "factIds": ["f_needs_savings_account_fit"],
+                "consequence": "Correct. This matches her saving goal and sets clear expectations.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_current_wrong",
+                "label": {
+                  "en": "Current account, no need to mention balance rules",
+                  "ur": "کرنٹ اکاؤنٹ، بیلنس بتانے کی ضرورت نہیں",
+                  "urLatn": "Current account, balance batane ki zaroorat nahi"
+                },
+                "correct": false,
+                "factIds": ["f_needs_current_account_fit"],
+                "consequence": "Current account fits salary and card needs, not saving goals.",
+                "misconceptionId": "m_wrong_product_for_saving"
+              },
+              {
+                "id": "opt_savings_no_detail",
+                "label": {
+                  "en": "Savings account, but skip the balance detail",
+                  "ur": "سیونگز اکاؤنٹ، لیکن بیلنس کی تفصیل نہ بتائیں",
+                  "urLatn": "Savings account, lekin balance ki tafseel na batayein"
+                },
+                "correct": false,
+                "factIds": ["f_needs_savings_account_fit", "f_needs_trust_risk"],
+                "consequence": "Skipping the minimum balance detail risks losing her trust later.",
+                "misconceptionId": "m_skip_fee_detail"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "A customer wants to save for a goal but is unsure about minimum balance rules. Which account fits, and what must you tell her?",
+              "standard": "A customer wants to save for a goal. Which account should you suggest, and what detail should you mention?",
+              "foundation": "Customer wants to save for a goal. Which account fits?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_needs_assessment",
+            "workedExample": "She wants to save for a goal, so suggest the savings account and mention it pays profit monthly with a minimum balance of five thousand rupees."
+          }
+        ],
+        "teachBack": {
+          "ask": "Why do we ask the customer what the account is for before suggesting a product?",
+          "followUp": "What should you explain before the customer signs the account opening form?",
+          "keyPoints": [
+            {
+              "text": "The purpose the customer states directly decides which product fits.",
+              "factIds": ["f_needs_purpose_question"]
+            },
+            {
+              "text": "Salary plus debit card and mobile banking needs point to a current account.",
+              "factIds": ["f_needs_current_account_fit"]
+            },
+            {
+              "text": "Saving toward a goal points to a savings account with its balance and profit terms.",
+              "factIds": ["f_needs_savings_account_fit"]
+            }
+          ]
+        },
+        "alternates": ["decision", "roleplay"],
+        "missionKey": "m1_needs",
+        "glossaryHints": [
+          {
+            "term": "current account",
+            "speechUr": "کرنٹ اکاؤنٹ"
+          },
+          {
+            "term": "savings account",
+            "speechUr": "سیونگز اکاؤنٹ"
+          },
+          {
+            "term": "minimum balance",
+            "speechUr": "کم از کم بیلنس"
+          },
+          {
+            "term": "debit card fee",
+            "speechUr": "ڈیبٹ کارڈ فیس"
+          },
+          {
+            "term": "SMS alert fee",
+            "speechUr": "ایس ایم ایس الرٹ فیس"
+          }
+        ]
+      },
+      "promptVersion": "design-2026-09-18",
+      "conceptKeys": ["c_needs_assessment"]
+    },
+    {
+      "ordinal": 1,
+      "chapterKey": "ch1_foundations",
+      "title": "The Original CNIC Only",
+      "primaryMechanic": "scenario",
+      "alternates": ["roleplay", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_verify_identity"]
+    },
+    {
+      "ordinal": 2,
+      "chapterKey": "ch2_paperwork",
+      "title": "Filling the KYC Form Together",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_kyc_form"]
+    },
+    {
+      "ordinal": 3,
+      "chapterKey": "ch2_paperwork",
+      "title": "Matching Documents and Capturing Signatures",
+      "primaryMechanic": "puzzle",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_signature_biometric"]
+    },
+    {
+      "ordinal": 4,
+      "chapterKey": "ch3_closing",
+      "title": "The Welcome Message",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_account_closing_steps", "c_service_expectations"]
+    },
+    {
+      "ordinal": 5,
+      "chapterKey": "ch4_exceptions",
+      "title": "Four Tricky Customers",
+      "primaryMechanic": "decision",
+      "alternates": ["scenario", "final_challenge"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_exception_handling"]
+    },
+    {
+      "ordinal": 6,
+      "chapterKey": "ch4_exceptions",
+      "title": "A Full Account Opening, Start to Finish",
+      "primaryMechanic": "final_challenge",
+      "alternates": ["scenario", "roleplay"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_verify_identity", "c_kyc_form", "c_exception_handling"]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "Know Your Customer (KYC)",
+      "termUr": "اپنے گاہک کو جانیں",
+      "termRoman": "Apne Gahak Ko Janiye",
+      "definition": "Regulatory process to verify customer identity and record source of income before opening an account.",
+      "speechHint": "کے وائی سی"
+    },
+    {
+      "termEn": "CNIC",
+      "termUr": "سی این آئی سی",
+      "termRoman": "CNIC",
+      "definition": "Computerized National Identity Card required as primary identity document for account opening.",
+      "speechHint": "سی این آئی سی"
+    },
+    {
+      "termEn": "NADRA verification",
+      "termUr": "نادرا تصدیق",
+      "termRoman": "NADRA Tasdeeq",
+      "definition": "System verification that confirms customer identity matches national database within seconds.",
+      "speechHint": "نادرا ورفیکیشن"
+    },
+    {
+      "termEn": "Current account",
+      "termUr": "موجودہ اکاؤنٹ",
+      "termRoman": "Mawjuda Account",
+      "definition": "Account product for salaried customers needing debit card and mobile banking facilities.",
+      "speechHint": "کرنٹ اکاؤنٹ"
+    },
+    {
+      "termEn": "Savings account",
+      "termUr": "بچت اکاؤنٹ",
+      "termRoman": "Bachat Account",
+      "definition": "Account product paying monthly profit with minimum balance of five thousand rupees.",
+      "speechHint": "سیونگز اکاؤنٹ"
+    },
+    {
+      "termEn": "Debit card",
+      "termUr": "ڈیبٹ کارڈ",
+      "termRoman": "Debit Card",
+      "definition": "Card issued to account holder for direct withdrawal and payment transactions.",
+      "speechHint": "ڈیبٹ کارڈ"
+    },
+    {
+      "termEn": "Mobile banking",
+      "termUr": "موبائل بینکنگ",
+      "termRoman": "Mobile Banking",
+      "definition": "Service allowing customers to access account and conduct transactions via mobile phone.",
+      "speechHint": "موبائل بینکنگ"
+    },
+    {
+      "termEn": "Minimum balance",
+      "termUr": "کم سے کم بیلنس",
+      "termRoman": "Kam Se Kam Balance",
+      "definition": "Lowest account balance required to maintain savings account without penalty charges.",
+      "speechHint": "منیمم بیلنس"
+    },
+    {
+      "termEn": "SMS alert fee",
+      "termUr": "ایس ایم ایس الرٹ فیس",
+      "termRoman": "SMS Alert Fee",
+      "definition": "Charge levied for sending short message service notifications to customer mobile.",
+      "speechHint": "ایس ایم ایس الرٹ فیس"
+    },
+    {
+      "termEn": "Specimen signature",
+      "termUr": "نمونہ دستخط",
+      "termRoman": "Namuna Dastkhatt",
+      "definition": "Customer's authorized signature recorded on card and system for verification purposes.",
+      "speechHint": "سپیسیمن سگنیچر"
+    },
+    {
+      "termEn": "Biometric thumb impression",
+      "termUr": "بائیومیٹرک انگوٹھے کا نشان",
+      "termRoman": "Biometric Angoothe Ka Nishaan",
+      "definition": "Digital fingerprint capture of customer's thumb for identity verification when device available.",
+      "speechHint": "بائیومیٹرک تھمب امپریشن"
+    },
+    {
+      "termEn": "Account number",
+      "termUr": "اکاؤنٹ نمبر",
+      "termRoman": "Account Number",
+      "definition": "Unique identifier assigned to customer account after approval.",
+      "speechHint": "اکاؤنٹ نمبر"
+    },
+    {
+      "termEn": "One-time password",
+      "termUr": "ایک بار کا پاس ورڈ",
+      "termRoman": "Ek Baar Ka Password",
+      "definition": "Temporary security code sent to registered mobile for transaction verification.",
+      "speechHint": "وان ٹائم پاس ورڈ"
+    },
+    {
+      "termEn": "Registered mobile number",
+      "termUr": "رجسٹرڈ موبائل نمبر",
+      "termRoman": "Registered Mobile Number",
+      "definition": "Customer's verified phone number linked to account for alerts and authentication.",
+      "speechHint": "رجسٹرڈ موبائل نمبر"
+    },
+    {
+      "termEn": "Turnover",
+      "termUr": "کاروبار کی رقم",
+      "termRoman": "Karobar Ki Raqam",
+      "definition": "Expected monthly transaction volume or income declared by customer in KYC form.",
+      "speechHint": "ٹرن اوور"
+    },
+    {
+      "termEn": "Politically exposed person",
+      "termUr": "سیاسی طور پر نمایاں شخص",
+      "termRoman": "Siyasi Taur Par Numayan Shakhs",
+      "definition": "Individual holding significant public office requiring enhanced due diligence checks.",
+      "speechHint": "پولیٹیکلی ایکسپوزڈ پرسن"
+    },
+    {
+      "termEn": "Source of income",
+      "termUr": "آمدنی کا ذریعہ",
+      "termRoman": "Aamdani Ka Zariya",
+      "definition": "Declaration of how customer earns money, recorded in KYC form.",
+      "speechHint": "سورس آف انکم"
+    },
+    {
+      "termEn": "NICOP",
+      "termUr": "نی آئی سی او پی",
+      "termRoman": "NICOP",
+      "definition": "National Identity Card for Overseas Pakistanis accepted as identity document alternative.",
+      "speechHint": "نی آئی سی او پی"
+    },
+    {
+      "termEn": "Utility bill",
+      "termUr": "بجلی کا بل",
+      "termRoman": "Bijli Ka Bill",
+      "definition": "Proof of current address accepted when CNIC address differs from residence.",
+      "speechHint": "یوٹیلٹی بل"
+    },
+    {
+      "termEn": "Branch operations manager",
+      "termUr": "برانچ آپریشنز مینیجر",
+      "termRoman": "Branch Operations Manager",
+      "definition": "Senior staff member who approves exceptions and supervises account opening procedures.",
+      "speechHint": "برانچ آپریشنز مینیجر"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+CREATE INDEX "evidence_events_session_created_idx" ON "evidence_events" USING btree ("session_id","created_at");--> statement-breakpoint
+CREATE INDEX "llm_calls_session_created_idx" ON "llm_calls" USING btree ("session_id","created_at");

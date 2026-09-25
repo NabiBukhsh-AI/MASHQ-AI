@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vercel.com/schema.json",
+  "framework": "nextjs",
+  "regions": ["sin1"],
+  "crons": [
+    {
+      "path": "/api/cron/embed",
+      "schedule": "0 1 * * *"
+    },
+    {
+      "path": "/api/cron/retention",
+      "schedule": "0 2 * * *"
+    }
+  ],
+  "functions": {
+    "src/app/api/**/*": {
+      "maxDuration": 300
+    }
+  }
+}

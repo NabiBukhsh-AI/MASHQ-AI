@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s01",
+    "type": "ur",
+    "text": "السلام علیکم! آج ہم اکاؤنٹ کھولنے کے مراحل سیکھیں گے۔"
+  },
+  {
+    "id": "s02",
+    "type": "mixed",
+    "text": "پہلے customer کا CNIC چیک کریں، پھر KYC فارم مکمل کریں۔"
+  },
+  {
+    "id": "s03",
+    "type": "mixed with numbers",
+    "text": "آپ کا ticket نمبر 4521 ہے، اور meeting ساڑھے تین بجے ہے۔"
+  },
+  {
+    "id": "s04",
+    "type": "ur-Latn",
+    "text": "Pehle customer ka CNIC check karein, phir KYC form mukammal karein."
+  },
+  {
+    "id": "s05",
+    "type": "en",
+    "text": "Let's practise the account update steps together."
+  },
+  {
+    "id": "s06",
+    "type": "en alphanumerics",
+    "text": "Your reference is AB-4521, and the IBAN starts with PK."
+  },
+  {
+    "id": "s07",
+    "type": "ur transliterated terms",
+    "text": "پہلے کسٹمر کا سی این آئی سی چیک کریں۔"
+  },
+  {
+    "id": "s08",
+    "type": "ur question",
+    "text": "آپ اس صورتحال میں کیا کریں گے؟"
+  },
+  {
+    "id": "s09",
+    "type": "ur-Latn praise",
+    "text": "Bohat khoob! Aap ne bilkul sahi step choose kiya."
+  },
+  {
+    "id": "s10",
+    "type": "ur long",
+    "text": "جب کوئی بزرگ کسٹمر پریشانی میں برانچ آئے تو پہلے انہیں بیٹھنے کی جگہ دیں، تسلی سے بات سنیں، اور پھر قدم بہ قدم ان کا مسئلہ حل کریں۔"
+  },
+  {
+    "id": "s11",
+    "type": "name",
+    "text": "مسٹر رشید آج branch آئے ہیں۔"
+  },
+  {
+    "id": "s12",
+    "type": "ur list",
+    "text": "یہ عمل تین مراحل پر مشتمل ہے: پہلا، دوسرا اور تیسرا۔"
+  }
+]

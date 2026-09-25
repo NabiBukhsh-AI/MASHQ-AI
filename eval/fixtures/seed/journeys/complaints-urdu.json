@@ -1,0 +1,1210 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-21T09:45:01.230Z",
+  "content": {
+    "title": "complaints-urdu",
+    "sourceType": "paste",
+    "sourceHash": "b8a83502bb210a7e85c8ab9b7b6795ea8b7c8470142199464ae0d87f419e595e",
+    "parserVersion": "v1",
+    "langPrimary": "ur",
+    "status": "ready",
+    "stats": {
+      "bytes": 4937,
+      "chars": 2801,
+      "chunks": 9,
+      "tokens": 1144,
+      "scanned": false,
+      "redactions": 0,
+      "injectionFlags": 0
+    },
+    "warnings": []
+  },
+  "chunks": [
+    {
+      "ordinal": 0,
+      "text": "شکایات کا ازالہ: برانچ اسٹاف کے لیے رہنما",
+      "anchorKind": "section",
+      "anchorRef": "1",
+      "charStart": 0,
+      "charEnd": 41,
+      "headingPath": ["شکایات کا ازالہ: برانچ اسٹاف کے لیے رہنما"],
+      "tokenCount": 19,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 1,
+      "text": "یہ رہنما برانچ کے عملے کے لیے ہے۔ اس میں بتایا گیا ہے کہ کسٹمر کی شکایت کیسے سنی جائے، کیسے درج کی جائے، اور کب اسے آگے بھیجا جائے۔ ہر شکایت ایک موقع ہے: جو کسٹمر شکایت کرتا ہے وہ ابھی بینک چھوڑنا نہیں چاہتا۔",
+      "anchorKind": "section",
+      "anchorRef": "2",
+      "charStart": 0,
+      "charEnd": 208,
+      "headingPath": ["مقصد"],
+      "tokenCount": 93,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 2,
+      "text": "جب کوئی کسٹمر ناراض ہو تو پہلے اسے پوری بات کہنے دیں۔ درمیان میں نہ ٹوکیں۔ آواز نیچی رکھیں اور آہستہ بولیں۔ جب کسٹمر بات ختم کر لے تو ایک جملے میں دہرائیں: \"آپ کہہ رہے ہیں کہ آپ کے اکاؤنٹ سے دو بار رقم کٹی ہے اور ایک بار واپس نہیں آئی۔ ٹھیک؟\"\n\nمعذرت کرنا کمزوری نہیں ہے۔ \"مجھے افسوس ہے کہ آپ کو یہ پریشانی ہوئی\" کہنے سے آدھی ناراضی ختم ہو جاتی ہے۔ لیکن کبھی ایسا وعدہ نہ کریں جو آپ پورا نہیں کر سکتے۔",
+      "anchorKind": "section",
+      "anchorRef": "3",
+      "charStart": 0,
+      "charEnd": 400,
+      "headingPath": ["پہلا اصول: سنیں"],
+      "tokenCount": 177,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 3,
+      "text": "ہر شکایت سسٹم میں درج ہوتی ہے، کاغذ پر نہیں۔ درج کرتے وقت یہ معلومات لکھیں: کسٹمر کا نام، اکاؤنٹ کی قسم، تاریخ، رقم، اور کسٹمر کے اپنے الفاظ میں مسئلہ۔ کسٹمر کو شکایت نمبر لکھ کر دیں یا ایس ایم ایس کے ذریعے بھیجیں۔\n\nشناختی کارڈ کا نمبر یا اکاؤنٹ نمبر کاؤنٹر پر بلند آواز میں نہ پڑھیں۔ تصدیق کے لیے صرف آخری چار ہندسے دہرائیں۔",
+      "anchorKind": "section",
+      "anchorRef": "4",
+      "charStart": 0,
+      "charEnd": 325,
+      "headingPath": ["دوسرا اصول: درج کریں"],
+      "tokenCount": 146,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 4,
+      "text": "کسٹمر کو بتائیں کہ جواب کب ملے گا۔ عام شکایات کے لیے معیار یہ ہے:\n\n| شکایت کی قسم | پہلا جواب | حتمی حل |\n| ------------------------------------- | --------- | --------------- |\n| اے ٹی ایم سے رقم نہ نکلنا مگر کٹ جانا | اسی دن | سات کام کے دن |\n| کارڈ پر غلط چارج | اسی دن | پندرہ کام کے دن |\n| عملے کا رویہ | اسی دن | تین کام کے دن |\n| اسٹیٹمنٹ میں غلطی | اسی دن | پانچ کام کے دن |\n\nاگر وقت بڑھ جائے تو کسٹمر کو خود فون کریں۔ کسٹمر کا فون آنے سے پہلے آپ کا فون جانا چاہیے۔",
+      "anchorKind": "section",
+      "anchorRef": "5",
+      "charStart": 0,
+      "charEnd": 473,
+      "headingPath": ["تیسرا اصول: وقت بتائیں"],
+      "tokenCount": 187,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 5,
+      "text": "یہ شکایات فوراً برانچ منیجر کو بھیجیں:\n\n1. کسی بھی قسم کا فراڈ یا مشکوک لین دین۔\n2. پچاس ہزار روپے سے زیادہ کی رقم کا تنازع۔\n3. کسٹمر کا کہنا کہ عملے نے بدتمیزی کی۔\n4. وہی کسٹمر جو ایک ماہ میں دوسری بار شکایت لے کر آیا ہو۔\n\nآگے بھیجتے وقت کسٹمر کو منیجر سے خود ملوائیں۔ کسٹمر کو دوبارہ پوری کہانی نہ سنانی پڑے؛ ایک جملے میں خلاصہ منیجر کو خود بتائیں۔",
+      "anchorKind": "section",
+      "anchorRef": "6",
+      "charStart": 0,
+      "charEnd": 350,
+      "headingPath": ["کب آگے بھیجیں"],
+      "tokenCount": 154,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 6,
+      "text": "جب کوئی بزرگ کسٹمر پریشانی میں برانچ آئے تو پہلے انہیں بیٹھنے کی جگہ دیں، پانی پیش کریں، تسلی سے بات سنیں، اور پھر قدم بہ قدم ان کا مسئلہ حل کریں۔ ان سے پوچھیں کہ وہ اردو میں بات کرنا چاہتے ہیں یا انگریزی میں۔ فارم خود بھریں اور ہر خانہ پڑھ کر سنائیں۔",
+      "anchorKind": "section",
+      "anchorRef": "7",
+      "charStart": 0,
+      "charEnd": 251,
+      "headingPath": ["بزرگ اور پریشان کسٹمر"],
+      "tokenCount": 112,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 7,
+      "text": "- \"یہ میرا کام نہیں\" کہہ کر کسٹمر کو دوسرے کاؤنٹر بھیج دینا۔\n- شکایت درج کیے بغیر زبانی وعدہ کرنا۔\n- کسٹمر سے بحث کرنا کہ غلطی اس کی اپنی ہے۔\n- وقت بتائے بغیر \"جلد ہو جائے گا\" کہنا۔",
+      "anchorKind": "section",
+      "anchorRef": "8",
+      "charStart": 0,
+      "charEnd": 181,
+      "headingPath": ["عام غلطیاں"],
+      "tokenCount": 79,
+      "lang": "ur",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 8,
+      "text": "ایک کسٹمر کہتا ہے کہ اے ٹی ایم نے رقم نہیں دی لیکن اکاؤنٹ سے پانچ ہزار روپے کٹ گئے۔ آپ کیا کریں گے؟ پہلے معذرت کریں، پھر تاریخ، وقت اور اے ٹی ایم کی جگہ پوچھیں، شکایت درج کریں، شکایت نمبر دیں، اور بتائیں کہ رقم عموماً سات کام کے دنوں میں واپس آ جاتی ہے۔\n\nایک کسٹمر ایک ماہ میں دوسری بار اسی مسئلے کے ساتھ آیا ہے۔ آپ کیا کریں گے؟ اسے خود برانچ منیجر سے ملوائیں اور پچھلی شکایت کا نمبر ساتھ لے جائیں۔",
+      "anchorKind": "section",
+      "anchorRef": "9",
+      "charStart": 0,
+      "charEnd": 398,
+      "headingPath": ["مشق"],
+      "tokenCount": 177,
+      "lang": "ur",
+      "injectionFlag": false
+    }
+  ],
+  "journey": {
+    "title": "Handling Customer Complaints at the Branch",
+    "outline": {
+      "story": {
+        "premise": "Ayesha, a newly joined branch officer, must learn the art of handling customer complaints under the guidance of her senior colleague Farhan, facing a series of real situations that test her patience, judgment, and knowledge of procedure.",
+        "setting": "A busy urban bank branch in Pakistan with a small counter hall, a manager's office, and a customer waiting area.",
+        "characters": [
+          {
+            "id": "ayesha",
+            "mood": "eager but nervous",
+            "name": "Ayesha",
+            "role": "New branch officer being trained",
+            "voiceProfile": "new_joiner"
+          },
+          {
+            "id": "farhan",
+            "mood": "patient and encouraging",
+            "name": "Farhan",
+            "role": "Senior branch officer and mentor",
+            "voiceProfile": "guide"
+          },
+          {
+            "id": "ghulam_sarwar",
+            "mood": "anxious and confused",
+            "name": "Ghulam Sarwar",
+            "role": "Elderly distressed customer",
+            "voiceProfile": "customer_elder"
+          },
+          {
+            "id": "bilal",
+            "mood": "frustrated",
+            "name": "Bilal",
+            "role": "Young customer with a repeat ATM complaint",
+            "voiceProfile": "customer_young"
+          }
+        ]
+      },
+      "title": "Handling Customer Complaints at the Branch",
+      "summary": "A training journey for branch staff on how to listen to, log, resolve, and escalate customer complaints professionally, with special attention to elderly customers and repeat complainants.",
+      "chapters": [
+        {
+          "key": "ch1_listening_and_logging",
+          "title": "Listening First, Logging Right",
+          "arcBeat": "New branch officer Ayesha learns the foundations of hearing out an upset customer and recording the complaint properly before anything else can happen.",
+          "missions": [
+            {
+              "key": "m1_calm_the_customer",
+              "title": "Calm the Storm",
+              "mechanic": "roleplay",
+              "objective": "Practice active listening and empathetic response with an angry customer.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_active_listening"]
+            },
+            {
+              "key": "m2_log_it_right",
+              "title": "Log It Right",
+              "mechanic": "puzzle",
+              "objective": "Correctly log a complaint with all required details while protecting customer identity.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_logging_complaint"]
+            }
+          ]
+        },
+        {
+          "key": "ch2_timelines_and_escalation",
+          "title": "Timelines and Turning Points",
+          "arcBeat": "Ayesha's mentor Farhan shows her how to set expectations with customers and recognize the moments a complaint must move up the chain.",
+          "missions": [
+            {
+              "key": "m3_promise_the_right_time",
+              "title": "Promise the Right Time",
+              "mechanic": "puzzle",
+              "objective": "Match complaint types to correct response and resolution timelines, and know when to call the customer proactively.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_resolution_timelines"]
+            },
+            {
+              "key": "m4_know_when_to_escalate",
+              "title": "Know When to Escalate",
+              "mechanic": "decision",
+              "objective": "Decide which complaints require immediate escalation to the branch manager and perform a smooth handoff.",
+              "alternates": ["scenario", "roleplay"],
+              "conceptKeys": ["c_escalation_criteria", "c_escalation_handoff"]
+            }
+          ]
+        },
+        {
+          "key": "ch3_special_care",
+          "title": "Care Beyond the Counter",
+          "arcBeat": "An elderly customer named Ghulam Sarwar visits the branch distressed, testing whether Ayesha can apply extra care and avoid common pitfalls.",
+          "missions": [
+            {
+              "key": "m5_serve_with_patience",
+              "title": "Serve with Patience",
+              "mechanic": "roleplay",
+              "objective": "Provide appropriate care to an elderly or distressed customer, including seating, language preference, and form assistance.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_elderly_customer_care"]
+            },
+            {
+              "key": "m6_avoid_the_trap",
+              "title": "Avoid the Trap",
+              "mechanic": "teach_back",
+              "objective": "Identify and avoid common mistakes such as deflecting responsibility or making unlogged promises.",
+              "alternates": ["puzzle", "decision"],
+              "conceptKeys": ["c_common_mistakes"]
+            }
+          ]
+        },
+        {
+          "key": "ch4_real_cases",
+          "title": "Putting It All Together",
+          "arcBeat": "Ayesha faces two real branch cases that combine everything she has learned, proving she is ready to handle the counter on her own.",
+          "missions": [
+            {
+              "key": "m7_atm_case",
+              "title": "The ATM Case",
+              "mechanic": "scenario",
+              "objective": "Resolve a full ATM cash dispute scenario from apology to complaint number to refund timeline.",
+              "alternates": ["roleplay", "decision"],
+              "conceptKeys": ["c_atm_dispute_scenario"]
+            },
+            {
+              "key": "m8_final_challenge",
+              "title": "The Second Time Around",
+              "mechanic": "final_challenge",
+              "objective": "Handle a repeat complaint case by escalating correctly with prior complaint history, integrating all key concepts.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_repeat_complaint_scenario"]
+            }
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "key": "c_active_listening",
+          "name": "Active Listening and Empathy",
+          "nameUr": "توجہ سے سننا اور ہمدردی",
+          "summary": "Let the customer finish speaking without interrupting, keep your voice low and calm, repeat back the issue in one sentence to confirm understanding, and apologize sincerely without making promises you cannot keep.",
+          "chunkIds": ["01a0bfe7-179c-7f31-91f5-24682658e2cf"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": []
+        },
+        {
+          "key": "c_logging_complaint",
+          "name": "Logging a Complaint Correctly",
+          "nameUr": "شکایت کا اندراج",
+          "summary": "Every complaint must be logged in the system, not on paper, capturing customer name, account type, date, amount, and the issue in the customer's own words. Give the customer a complaint number by print or SMS, and protect identity by repeating only the last four digits of ID or account numbers aloud.",
+          "chunkIds": ["01a0bfe7-179c-7426-bd70-71528b8a1f31"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": ["c_active_listening"]
+        },
+        {
+          "key": "c_resolution_timelines",
+          "name": "Response and Resolution Timelines",
+          "nameUr": "جواب اور حل کا وقت",
+          "summary": "Different complaint types have set standards for first response and final resolution, such as same-day first response for ATM cash-not-dispensed issues with seven working days for final resolution. If timelines slip, staff must proactively call the customer before the customer calls them.",
+          "chunkIds": ["01a0bfe7-179c-76ee-8364-717bec9001af"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": ["c_logging_complaint"]
+        },
+        {
+          "key": "c_escalation_criteria",
+          "name": "When to Escalate to the Branch Manager",
+          "nameUr": "برانچ منیجر کو رپورٹ کرنے کے حالات",
+          "summary": "Certain complaints must be escalated immediately to the branch manager: any fraud or suspicious transaction, disputes over fifty thousand rupees, allegations of staff misbehavior, and repeat complaints from the same customer within a month.",
+          "chunkIds": ["01a0bfe7-179c-709c-b649-f3b8e1266154"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": ["c_logging_complaint"]
+        },
+        {
+          "key": "c_escalation_handoff",
+          "name": "Smooth Handoff During Escalation",
+          "nameUr": "منیجر کے حوالے کرنے کا طریقہ",
+          "summary": "When escalating, personally introduce the customer to the manager and summarize the issue in one sentence yourself so the customer does not have to repeat the whole story again.",
+          "chunkIds": ["01a0bfe7-179c-709c-b649-f3b8e1266154"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_escalation_criteria"]
+        },
+        {
+          "key": "c_elderly_customer_care",
+          "name": "Serving Elderly and Distressed Customers",
+          "nameUr": "بزرگ اور پریشان کسٹمرز کی خدمت",
+          "summary": "When an elderly or distressed customer arrives, offer them a seat and water, listen patiently, ask their preferred language, fill forms for them, and read out every field aloud before proceeding.",
+          "chunkIds": ["01a0bfe7-179c-7002-ab5b-4b7f79729a56"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_active_listening"]
+        },
+        {
+          "key": "c_common_mistakes",
+          "name": "Common Mistakes to Avoid",
+          "nameUr": "عام غلطیاں جن سے بچنا ہے",
+          "summary": "Avoid telling customers 'this is not my job' and sending them elsewhere, making verbal promises without logging the complaint, arguing that the mistake is the customer's fault, or saying 'it will be done soon' without giving a specific timeframe.",
+          "chunkIds": ["01a0bfe7-179c-76f2-8216-97a5cf3f9dac"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_active_listening", "c_logging_complaint"]
+        },
+        {
+          "key": "c_atm_dispute_scenario",
+          "name": "Handling an ATM Cash Dispute",
+          "nameUr": "اے ٹی ایم رقم کے تنازع کا حل",
+          "summary": "For a customer reporting cash not dispensed but amount deducted, apologize first, ask for date, time and ATM location, log the complaint, provide a complaint number, and explain the typical seven working day refund period.",
+          "chunkIds": ["01a0bfe7-179c-7d04-be0a-807ed35a4365"],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": ["c_logging_complaint", "c_resolution_timelines"]
+        },
+        {
+          "key": "c_repeat_complaint_scenario",
+          "name": "Handling a Repeat Complaint",
+          "nameUr": "دوسری بار کی شکایت سے نمٹنا",
+          "summary": "If a customer returns within a month with the same issue, escalate directly to the branch manager and bring along the number of the previous complaint.",
+          "chunkIds": ["01a0bfe7-179c-7d04-be0a-807ed35a4365"],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": ["c_escalation_criteria", "c_escalation_handoff"]
+        }
+      ],
+      "warnings": []
+    },
+    "story": {
+      "premise": "Ayesha, a newly joined branch officer, must learn the art of handling customer complaints under the guidance of her senior colleague Farhan, facing a series of real situations that test her patience, judgment, and knowledge of procedure.",
+      "setting": "A busy urban bank branch in Pakistan with a small counter hall, a manager's office, and a customer waiting area.",
+      "characters": [
+        {
+          "id": "ayesha",
+          "mood": "eager but nervous",
+          "name": "Ayesha",
+          "role": "New branch officer being trained",
+          "voiceProfile": "new_joiner"
+        },
+        {
+          "id": "farhan",
+          "mood": "patient and encouraging",
+          "name": "Farhan",
+          "role": "Senior branch officer and mentor",
+          "voiceProfile": "guide"
+        },
+        {
+          "id": "ghulam_sarwar",
+          "mood": "anxious and confused",
+          "name": "Ghulam Sarwar",
+          "role": "Elderly distressed customer",
+          "voiceProfile": "customer_elder"
+        },
+        {
+          "id": "bilal",
+          "mood": "frustrated",
+          "name": "Bilal",
+          "role": "Young customer with a repeat ATM complaint",
+          "voiceProfile": "customer_young"
+        }
+      ]
+    },
+    "designHash": "4b54a43391582e3360b874fba14d62904d3d3af4034001332d92569614ba8902",
+    "status": "ready",
+    "promptVersion": "design-2026-09-18"
+  },
+  "concepts": [
+    {
+      "key": "c_active_listening",
+      "name": "Active Listening and Empathy",
+      "nameUr": "توجہ سے سننا اور ہمدردی",
+      "summary": "Let the customer finish speaking without interrupting, keep your voice low and calm, repeat back the issue in one sentence to confirm understanding, and apologize sincerely without making promises you cannot keep.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [2]
+    },
+    {
+      "key": "c_logging_complaint",
+      "name": "Logging a Complaint Correctly",
+      "nameUr": "شکایت کا اندراج",
+      "summary": "Every complaint must be logged in the system, not on paper, capturing customer name, account type, date, amount, and the issue in the customer's own words. Give the customer a complaint number by print or SMS, and protect identity by repeating only the last four digits of ID or account numbers aloud.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [3]
+    },
+    {
+      "key": "c_resolution_timelines",
+      "name": "Response and Resolution Timelines",
+      "nameUr": "جواب اور حل کا وقت",
+      "summary": "Different complaint types have set standards for first response and final resolution, such as same-day first response for ATM cash-not-dispensed issues with seven working days for final resolution. If timelines slip, staff must proactively call the customer before the customer calls them.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [4]
+    },
+    {
+      "key": "c_escalation_criteria",
+      "name": "When to Escalate to the Branch Manager",
+      "nameUr": "برانچ منیجر کو رپورٹ کرنے کے حالات",
+      "summary": "Certain complaints must be escalated immediately to the branch manager: any fraud or suspicious transaction, disputes over fifty thousand rupees, allegations of staff misbehavior, and repeat complaints from the same customer within a month.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [5]
+    },
+    {
+      "key": "c_escalation_handoff",
+      "name": "Smooth Handoff During Escalation",
+      "nameUr": "منیجر کے حوالے کرنے کا طریقہ",
+      "summary": "When escalating, personally introduce the customer to the manager and summarize the issue in one sentence yourself so the customer does not have to repeat the whole story again.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [5]
+    },
+    {
+      "key": "c_elderly_customer_care",
+      "name": "Serving Elderly and Distressed Customers",
+      "nameUr": "بزرگ اور پریشان کسٹمرز کی خدمت",
+      "summary": "When an elderly or distressed customer arrives, offer them a seat and water, listen patiently, ask their preferred language, fill forms for them, and read out every field aloud before proceeding.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [6]
+    },
+    {
+      "key": "c_common_mistakes",
+      "name": "Common Mistakes to Avoid",
+      "nameUr": "عام غلطیاں جن سے بچنا ہے",
+      "summary": "Avoid telling customers 'this is not my job' and sending them elsewhere, making verbal promises without logging the complaint, arguing that the mistake is the customer's fault, or saying 'it will be done soon' without giving a specific timeframe.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [7]
+    },
+    {
+      "key": "c_atm_dispute_scenario",
+      "name": "Handling an ATM Cash Dispute",
+      "nameUr": "اے ٹی ایم رقم کے تنازع کا حل",
+      "summary": "For a customer reporting cash not dispensed but amount deducted, apologize first, ask for date, time and ATM location, log the complaint, provide a complaint number, and explain the typical seven working day refund period.",
+      "difficulty": 3,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [8]
+    },
+    {
+      "key": "c_repeat_complaint_scenario",
+      "name": "Handling a Repeat Complaint",
+      "nameUr": "دوسری بار کی شکایت سے نمٹنا",
+      "summary": "If a customer returns within a month with the same issue, escalate directly to the branch manager and bring along the number of the previous complaint.",
+      "difficulty": 3,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [8]
+    }
+  ],
+  "facts": [
+    {
+      "key": "f_let_customer_finish",
+      "conceptKey": "c_active_listening",
+      "statement": "Let an angry customer say their full complaint without interrupting.",
+      "anchors": [
+        {
+          "end": 73,
+          "quote": "جب کوئی کسٹمر ناراض ہو تو پہلے اسے پوری بات کہنے دیں۔ درمیان میں نہ ٹوکیں",
+          "start": 0,
+          "chunkId": "01a0bfe7-179c-7f31-91f5-24682658e2cf"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_low_slow_voice",
+      "conceptKey": "c_active_listening",
+      "statement": "Keep your voice low and speak slowly when handling an angry customer.",
+      "anchors": [
+        {
+          "end": 106,
+          "quote": "آواز نیچی رکھیں اور آہستہ بولیں",
+          "start": 75,
+          "chunkId": "01a0bfe7-179c-7f31-91f5-24682658e2cf"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_repeat_summary",
+      "conceptKey": "c_active_listening",
+      "statement": "After the customer finishes, repeat their complaint back in one sentence to confirm understanding.",
+      "anchors": [
+        {
+          "end": 154,
+          "quote": "جب کسٹمر بات ختم کر لے تو ایک جملے میں دہرائیں",
+          "start": 108,
+          "chunkId": "01a0bfe7-179c-7f31-91f5-24682658e2cf"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_apology_not_weakness",
+      "conceptKey": "c_active_listening",
+      "statement": "Apologizing is not a weakness; saying sorry for the trouble caused reduces half the anger.",
+      "anchors": [
+        {
+          "end": 346,
+          "quote": "معذرت کرنا کمزوری نہیں ہے۔ \"مجھے افسوس ہے کہ آپ کو یہ پریشانی ہوئی\" کہنے سے آدھی ناراضی ختم ہو جاتی ہے",
+          "start": 244,
+          "chunkId": "01a0bfe7-179c-7f31-91f5-24682658e2cf"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_no_false_promise",
+      "conceptKey": "c_active_listening",
+      "statement": "Never promise something you cannot deliver, even while apologizing.",
+      "anchors": [
+        {
+          "end": 399,
+          "quote": "لیکن کبھی ایسا وعدہ نہ کریں جو آپ پورا نہیں کر سکتے",
+          "start": 348,
+          "chunkId": "01a0bfe7-179c-7f31-91f5-24682658e2cf"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    }
+  ],
+  "missions": [
+    {
+      "ordinal": 0,
+      "chapterKey": "ch1_listening_and_logging",
+      "title": "Calm the Storm",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "ready",
+      "pack": {
+        "beats": [
+          {
+            "id": "b1_intro",
+            "kind": "intro",
+            "next": {
+              "correct": "b2_roleplay",
+              "partial": "b2_roleplay",
+              "incorrect": "b2_roleplay"
+            },
+            "text": "A customer storms up to your counter, upset about money missing from their account. Handle it calmly.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b2_roleplay",
+            "kind": "roleplay",
+            "next": {
+              "correct": "b3_scenario",
+              "partial": "b3_scenario",
+              "incorrect": "b3_scenario"
+            },
+            "text": "Customer speaks fast, voice raised, demanding answers about missing money.",
+            "speaker": "customer",
+            "questionId": "q1_first_response"
+          },
+          {
+            "id": "b3_scenario",
+            "kind": "scenario",
+            "next": {
+              "correct": "b4_apology",
+              "partial": "b4_apology",
+              "incorrect": "b4_apology"
+            },
+            "text": "The customer finishes explaining. It's time to show you understood before offering help.",
+            "speaker": "narrator",
+            "questionId": "q2_summarize"
+          },
+          {
+            "id": "b4_apology",
+            "kind": "question",
+            "next": {
+              "correct": "b5_teach",
+              "partial": "b5_teach",
+              "incorrect": "b5_teach"
+            },
+            "text": "The customer is still tense. Choose your next words carefully.",
+            "speaker": "narrator",
+            "questionId": "q3_apology_choice"
+          },
+          {
+            "id": "b5_teach",
+            "kind": "teach_back",
+            "next": {
+              "correct": "b6_wrap",
+              "partial": "b6_wrap",
+              "incorrect": "b6_wrap"
+            },
+            "text": "A new colleague asks why apologizing helps even before the issue is fixed.",
+            "speaker": "new_joiner",
+            "questionId": null
+          },
+          {
+            "id": "b6_wrap",
+            "kind": "wrap",
+            "next": {
+              "correct": null,
+              "partial": null,
+              "incorrect": null
+            },
+            "text": "You listened, summarized, and apologized without overpromising. That's how you calm a storm.",
+            "speaker": "narrator",
+            "questionId": null
+          }
+        ],
+        "title": {
+          "en": "Calm the Storm",
+          "ur": "طوفان کو تھامیں",
+          "urLatn": "Toofan Ko Thamein"
+        },
+        "mechanic": "roleplay",
+        "roleplay": {
+          "goal": "Get an explanation and resolution for a double deduction from their account.",
+          "mood": "angry and impatient",
+          "openers": [
+            "Why was my money deducted twice from my account?",
+            "I've been coming here for years, and now you people take my money without explanation!",
+            "This is theft! Give me my money back right now or I'm closing my account and telling everyone!"
+          ],
+          "behaviors": [
+            {
+              "id": "beh1",
+              "text": "Stays quiet and lets the customer finish the full complaint before responding.",
+              "factIds": ["f_let_customer_finish"]
+            },
+            {
+              "id": "beh2",
+              "text": "Speaks in a low, slow voice throughout the interaction.",
+              "factIds": ["f_low_slow_voice"]
+            },
+            {
+              "id": "beh3",
+              "text": "Repeats the complaint back in one clear sentence to confirm understanding.",
+              "factIds": ["f_repeat_summary"]
+            },
+            {
+              "id": "beh4",
+              "text": "Apologizes for the trouble caused without promising a specific fix time.",
+              "factIds": ["f_apology_not_weakness", "f_no_false_promise"]
+            }
+          ],
+          "customerId": "customer_irate_deduction"
+        },
+        "callbacks": [
+          {
+            "id": "cb1_listen_first",
+            "prompt": "Before summarizing or apologizing, what must you always do first with an angry customer?",
+            "keyPoints": [
+              "Let them finish speaking without interrupting.",
+              "Keep your voice low and speak slowly."
+            ],
+            "conceptKey": "c_active_listening"
+          },
+          {
+            "id": "cb2_apology_limits",
+            "prompt": "When apologizing to a customer, what must you be careful not to do?",
+            "keyPoints": [
+              "Do not promise something you cannot deliver.",
+              "Apologizing itself is fine and reduces anger, but keep promises realistic."
+            ],
+            "conceptKey": "c_active_listening"
+          }
+        ],
+        "objective": "Practice active listening and empathetic response with an angry customer.",
+        "questions": [
+          {
+            "id": "q1_first_response",
+            "kind": "choice",
+            "hints": [
+              "Think about what happens when someone feels cut off mid-sentence.",
+              "The excerpt says not to interrupt and to keep your tone calm.",
+              "Letting them finish and staying quiet-voiced is the correct first step."
+            ],
+            "pairs": null,
+            "prompt": "The customer is speaking loudly and fast. What do you do first?",
+            "factIds": ["f_let_customer_finish", "f_low_slow_voice"],
+            "options": [
+              {
+                "id": "o1",
+                "label": {
+                  "en": "Let them finish speaking without interrupting",
+                  "ur": "انہیں بغیر ٹوکے پوری بات کہنے دیں",
+                  "urLatn": "Unhein baghair tokay poori baat kehne dein"
+                },
+                "correct": true,
+                "factIds": ["f_let_customer_finish", "f_low_slow_voice"],
+                "consequence": "The customer feels heard and slows down.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o2",
+                "label": {
+                  "en": "Interrupt to explain the bank's side immediately",
+                  "ur": "فوراً بینک کا موقف بتانے کے لیے بات کاٹ دیں",
+                  "urLatn": "Foran bank ka mauqaf batane ke liye baat kaat dein"
+                },
+                "correct": false,
+                "factIds": ["f_let_customer_finish"],
+                "consequence": "The customer gets angrier, feeling ignored.",
+                "misconceptionId": "m_interrupting_helps"
+              },
+              {
+                "id": "o3",
+                "label": {
+                  "en": "Raise your voice to match theirs so they take you seriously",
+                  "ur": "انہیں سنجیدہ لینے کے لیے اپنی آواز بھی اونچی کر دیں",
+                  "urLatn": "Unhein sanjeeda lene ke liye apni awaz bhi oonchi kar dein"
+                },
+                "correct": false,
+                "factIds": ["f_low_slow_voice"],
+                "consequence": "The situation escalates further.",
+                "misconceptionId": "m_match_volume"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The customer is escalating quickly, cutting off your greeting. What is your first move?",
+              "standard": "The customer is speaking loudly and fast. What do you do first?",
+              "foundation": "The customer is upset and talking loudly. What is your first move?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_active_listening",
+            "workedExample": "A customer complains loudly about a double deduction. You stay silent, nod, and let them finish before speaking softly."
+          },
+          {
+            "id": "q2_summarize",
+            "kind": "choice",
+            "hints": [
+              "Confirming understanding builds trust before you act.",
+              "A short one-sentence summary shows you were listening.",
+              "Try restating their issue back to them in your own words."
+            ],
+            "pairs": null,
+            "prompt": "After the customer finishes explaining, what should you do next?",
+            "factIds": ["f_repeat_summary"],
+            "options": [
+              {
+                "id": "o1",
+                "label": {
+                  "en": "Repeat the complaint back in one sentence to confirm",
+                  "ur": "شکایت کو ایک جملے میں دہرا کر تصدیق کریں",
+                  "urLatn": "Shikayat ko ek jumlay mein dohra kar tasdeeq karein"
+                },
+                "correct": true,
+                "factIds": ["f_repeat_summary"],
+                "consequence": "The customer confirms you understood and calms slightly.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o2",
+                "label": {
+                  "en": "Immediately start explaining bank procedures",
+                  "ur": "فوراً بینک کے طریقہ کار کی وضاحت شروع کریں",
+                  "urLatn": "Foran bank ke tareeqa-e-kaar ki wazahat shuru karein"
+                },
+                "correct": false,
+                "factIds": ["f_repeat_summary"],
+                "consequence": "The customer feels unheard and interrupts again.",
+                "misconceptionId": "m_skip_confirmation"
+              },
+              {
+                "id": "o3",
+                "label": {
+                  "en": "Ask them to repeat everything again for clarity",
+                  "ur": "وضاحت کے لیے انہیں دوبارہ سب کچھ کہنے کو کہیں",
+                  "urLatn": "Wazahat ke liye unhein dobara sab kuch kehne ko kahein"
+                },
+                "correct": false,
+                "factIds": ["f_repeat_summary"],
+                "consequence": "The customer feels frustrated at having to repeat themselves.",
+                "misconceptionId": "m_no_summary_needed"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The customer has finished a long, detailed complaint. What is the best next step before offering a solution?",
+              "standard": "After the customer finishes explaining, what should you do next?",
+              "foundation": "The customer has stopped talking. What do you say next?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_active_listening",
+            "workedExample": "Customer says money was deducted twice. You say: 'You're saying two deductions happened and one wasn't refunded, correct?'"
+          },
+          {
+            "id": "q3_apology_choice",
+            "kind": "choice",
+            "hints": [
+              "An apology for the inconvenience is different from admitting fault.",
+              "Saying sorry can reduce anger, but don't commit to outcomes you can't control.",
+              "Choose the option that shows empathy without a firm promise."
+            ],
+            "pairs": null,
+            "prompt": "The customer is still upset after your summary. What should you say?",
+            "factIds": ["f_apology_not_weakness", "f_no_false_promise"],
+            "options": [
+              {
+                "id": "o1",
+                "label": {
+                  "en": "Say sorry for the trouble without promising a specific outcome",
+                  "ur": "مخصوص نتیجے کا وعدہ کیے بغیر پریشانی پر معذرت کریں",
+                  "urLatn": "Makhsoos nateeje ka wada kiye baghair pareshani par muzarat karein"
+                },
+                "correct": true,
+                "factIds": ["f_apology_not_weakness", "f_no_false_promise"],
+                "consequence": "The customer's anger eases without a broken promise later.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o2",
+                "label": {
+                  "en": "Promise the money will be refunded today",
+                  "ur": "وعدہ کریں کہ رقم آج ہی واپس ہو جائے گی",
+                  "urLatn": "Wada karein ke raqam aaj hi wapis ho jayegi"
+                },
+                "correct": false,
+                "factIds": ["f_no_false_promise"],
+                "consequence": "If it doesn't happen today, the customer feels betrayed.",
+                "misconceptionId": "m_overpromise"
+              },
+              {
+                "id": "o3",
+                "label": {
+                  "en": "Avoid apologizing since the bank may not be at fault",
+                  "ur": "معذرت سے گریز کریں کیونکہ ہو سکتا ہے قصور بینک کا نہ ہو",
+                  "urLatn": "Muzarat se gurez karein kyunke ho sakta hai qasoor bank ka na ho"
+                },
+                "correct": false,
+                "factIds": ["f_apology_not_weakness"],
+                "consequence": "The customer feels dismissed and gets angrier.",
+                "misconceptionId": "m_apology_is_weakness"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The customer demands you guarantee the money is refunded today. How do you respond?",
+              "standard": "The customer is still upset after your summary. What should you say?",
+              "foundation": "What should you say to show empathy now?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_active_listening",
+            "workedExample": "You say: 'I'm sorry this happened to you' without promising when the refund will land."
+          }
+        ],
+        "teachBack": {
+          "ask": "Why does saying sorry help even before we've fixed the customer's problem?",
+          "followUp": "What should you do before you even reach the apology step?",
+          "keyPoints": [
+            {
+              "text": "Apologizing is not a weakness and reduces half the customer's anger.",
+              "factIds": ["f_apology_not_weakness"]
+            },
+            {
+              "text": "You must still avoid promising outcomes you cannot guarantee.",
+              "factIds": ["f_no_false_promise"]
+            }
+          ]
+        },
+        "alternates": ["scenario", "teach_back"],
+        "missionKey": "m1_calm_the_customer",
+        "glossaryHints": [
+          {
+            "term": "apology",
+            "speechUr": "معذرت"
+          },
+          {
+            "term": "complaint",
+            "speechUr": "شکایت"
+          },
+          {
+            "term": "deduction",
+            "speechUr": "کٹوتی"
+          }
+        ]
+      },
+      "promptVersion": "design-2026-09-18",
+      "conceptKeys": ["c_active_listening"]
+    },
+    {
+      "ordinal": 1,
+      "chapterKey": "ch1_listening_and_logging",
+      "title": "Log It Right",
+      "primaryMechanic": "puzzle",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_logging_complaint"]
+    },
+    {
+      "ordinal": 2,
+      "chapterKey": "ch2_timelines_and_escalation",
+      "title": "Promise the Right Time",
+      "primaryMechanic": "puzzle",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_resolution_timelines"]
+    },
+    {
+      "ordinal": 3,
+      "chapterKey": "ch2_timelines_and_escalation",
+      "title": "Know When to Escalate",
+      "primaryMechanic": "decision",
+      "alternates": ["scenario", "roleplay"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_escalation_criteria", "c_escalation_handoff"]
+    },
+    {
+      "ordinal": 4,
+      "chapterKey": "ch3_special_care",
+      "title": "Serve with Patience",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_elderly_customer_care"]
+    },
+    {
+      "ordinal": 5,
+      "chapterKey": "ch3_special_care",
+      "title": "Avoid the Trap",
+      "primaryMechanic": "teach_back",
+      "alternates": ["puzzle", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_common_mistakes"]
+    },
+    {
+      "ordinal": 6,
+      "chapterKey": "ch4_real_cases",
+      "title": "The ATM Case",
+      "primaryMechanic": "scenario",
+      "alternates": ["roleplay", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_atm_dispute_scenario"]
+    },
+    {
+      "ordinal": 7,
+      "chapterKey": "ch4_real_cases",
+      "title": "The Second Time Around",
+      "primaryMechanic": "final_challenge",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_repeat_complaint_scenario"]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "complaint",
+      "termUr": "شکایت",
+      "termRoman": "shikayat",
+      "definition": "A formal expression of dissatisfaction by a customer about bank services or transactions.",
+      "speechHint": "کمپلینٹ"
+    },
+    {
+      "termEn": "branch staff",
+      "termUr": "برانچ کا عملہ",
+      "termRoman": "branch ka aamla",
+      "definition": "Employees working at a bank branch who handle customer interactions and complaints.",
+      "speechHint": "برانچ سٹاف"
+    },
+    {
+      "termEn": "account",
+      "termUr": "اکاؤنٹ",
+      "termRoman": "account",
+      "definition": "A customer's financial record with the bank for deposits, withdrawals, and transactions.",
+      "speechHint": "اکاؤنٹ"
+    },
+    {
+      "termEn": "ATM",
+      "termUr": "اے ٹی ایم",
+      "termRoman": "ATM",
+      "definition": "Automated Teller Machine for withdrawing cash and checking account balance without visiting branch.",
+      "speechHint": "اے ٹی ایم"
+    },
+    {
+      "termEn": "deduction",
+      "termUr": "کٹنا",
+      "termRoman": "katna",
+      "definition": "Amount subtracted from customer account due to transaction or charge.",
+      "speechHint": "ڈیڈکشن"
+    },
+    {
+      "termEn": "card charge",
+      "termUr": "کارڈ پر چارج",
+      "termRoman": "card par charge",
+      "definition": "Fee or incorrect amount deducted from customer's card during transaction.",
+      "speechHint": "کارڈ چارج"
+    },
+    {
+      "termEn": "statement",
+      "termUr": "سٹیٹمنٹ",
+      "termRoman": "statement",
+      "definition": "Record of all transactions and account activity provided to customer.",
+      "speechHint": "سٹیٹمنٹ"
+    },
+    {
+      "termEn": "fraud",
+      "termUr": "فراڈ",
+      "termRoman": "fraud",
+      "definition": "Illegal or deceptive transaction or activity involving customer's account or card.",
+      "speechHint": "فراڈ"
+    },
+    {
+      "termEn": "branch manager",
+      "termUr": "برانچ منیجر",
+      "termRoman": "branch manager",
+      "definition": "Senior staff member responsible for managing branch operations and escalated complaints.",
+      "speechHint": "برانچ منیجر"
+    },
+    {
+      "termEn": "complaint number",
+      "termUr": "شکایت نمبر",
+      "termRoman": "shikayat number",
+      "definition": "Unique reference number assigned to each registered complaint for tracking and follow-up.",
+      "speechHint": "کمپلینٹ نمبر"
+    },
+    {
+      "termEn": "first response",
+      "termUr": "پہلا جواب",
+      "termRoman": "pehla jawab",
+      "definition": "Initial acknowledgment provided to customer on the same day complaint is registered.",
+      "speechHint": "فرسٹ ریسپانس"
+    },
+    {
+      "termEn": "final resolution",
+      "termUr": "حتمی حل",
+      "termRoman": "hatmi hal",
+      "definition": "Complete solution to complaint provided within specified timeframe.",
+      "speechHint": "فائنل ریزولوشن"
+    },
+    {
+      "termEn": "working days",
+      "termUr": "کام کے دن",
+      "termRoman": "kaam ke din",
+      "definition": "Business days excluding weekends and holidays for complaint resolution timeline.",
+      "speechHint": "ورکنگ ڈیز"
+    },
+    {
+      "termEn": "disputed amount",
+      "termUr": "تنازعہ میں رقم",
+      "termRoman": "tanaza mein raqam",
+      "definition": "Money in question between customer and bank regarding transaction or charge.",
+      "speechHint": "ڈسپیوٹڈ امائونٹ"
+    },
+    {
+      "termEn": "escalation",
+      "termUr": "آگے بھیجنا",
+      "termRoman": "aage bhejna",
+      "definition": "Process of forwarding complaint to higher authority when branch cannot resolve it.",
+      "speechHint": "ایسکلیشن"
+    },
+    {
+      "termEn": "identity card number",
+      "termUr": "شناختی کارڈ کا نمبر",
+      "termRoman": "shanakhti card ka number",
+      "definition": "National identification number that should not be announced loudly at counter.",
+      "speechHint": "آئی ڈی کارڈ نمبر"
+    },
+    {
+      "termEn": "account number",
+      "termUr": "اکاؤنٹ نمبر",
+      "termRoman": "account number",
+      "definition": "Unique identifier for customer's bank account requiring confidential handling.",
+      "speechHint": "اکاؤنٹ نمبر"
+    },
+    {
+      "termEn": "last four digits",
+      "termUr": "آخری چار ہندسے",
+      "termRoman": "aakhri char handse",
+      "definition": "Final four numbers of account or card used for verification instead of full number.",
+      "speechHint": "لاسٹ فور ڈجٹس"
+    },
+    {
+      "termEn": "SMS",
+      "termUr": "ایس ایم ایس",
+      "termRoman": "SMS",
+      "definition": "Text message sent to customer's phone containing complaint number and details.",
+      "speechHint": "ایس ایم ایس"
+    },
+    {
+      "termEn": "suspicious transaction",
+      "termUr": "مشکوک لین دین",
+      "termRoman": "mashkook lenden",
+      "definition": "Transaction that appears fraudulent or unusual and requires immediate manager escalation.",
+      "speechHint": "سسپیشس ٹرانزیکشن"
+    },
+    {
+      "termEn": "staff conduct",
+      "termUr": "عملے کا رویہ",
+      "termRoman": "aamle ka roya",
+      "definition": "Complaint regarding inappropriate behavior or rudeness by bank employee.",
+      "speechHint": "سٹاف کنڈکٹ"
+    },
+    {
+      "termEn": "counter",
+      "termUr": "کاؤنٹر",
+      "termRoman": "counter",
+      "definition": "Service desk at branch where customers interact with staff for transactions.",
+      "speechHint": "کاؤنٹر"
+    },
+    {
+      "termEn": "apology",
+      "termUr": "معذرت",
+      "termRoman": "maafi",
+      "definition": "Expression of regret to customer that helps resolve half of their dissatisfaction.",
+      "speechHint": "اپولوجی"
+    },
+    {
+      "termEn": "active listening",
+      "termUr": "توجہ سے سننا",
+      "termRoman": "tawajjah se sunna",
+      "definition": "Technique of letting customer speak fully without interruption before responding.",
+      "speechHint": "اکٹیو لسننگ"
+    },
+    {
+      "termEn": "paraphrase",
+      "termUr": "دہرانا",
+      "termRoman": "dohrana",
+      "definition": "Repeating customer's complaint in one sentence to confirm understanding.",
+      "speechHint": "پیرافریز"
+    },
+    {
+      "termEn": "system registration",
+      "termUr": "سسٹم میں درج",
+      "termRoman": "system mein darj",
+      "definition": "Recording complaint in bank's digital system rather than on paper.",
+      "speechHint": "سسٹم ریجسٹریشن"
+    },
+    {
+      "termEn": "follow-up call",
+      "termUr": "فالو اپ کال",
+      "termRoman": "follow-up call",
+      "definition": "Proactive call made by staff to customer before they call to check complaint status.",
+      "speechHint": "فالو اپ کال"
+    },
+    {
+      "termEn": "senior customer",
+      "termUr": "بزرگ کسٹمر",
+      "termRoman": "buzurg customer",
+      "definition": "Elderly customer requiring special care, seating, water, and step-by-step assistance.",
+      "speechHint": "سینیئر کسٹمر"
+    }
+  ]
+}

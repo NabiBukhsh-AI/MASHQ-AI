@@ -1,0 +1,85 @@
+/*
+ * A4 print stylesheet for the manager report.
+ * The browser prints to PDF, so there is no server side PDF engine to keep working.
+ */
+
+@media print {
+  @page {
+    size: A4;
+    margin: 14mm 12mm;
+  }
+
+  /* Anything that is not the report itself: navigation, filters, buttons. */
+  .no-print,
+  nav,
+  header[role="toolbar"],
+  button {
+    display: none !important;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 10pt;
+  }
+
+  /* Tables are the substance of this report, so they must never be cut mid row. */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    page-break-inside: auto;
+  }
+
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  th,
+  td {
+    border-bottom: 0.4pt solid #999;
+    padding: 3pt 4pt;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  /* A section heading alone at the bottom of a page reads as a mistake. */
+  h1,
+  h2,
+  h3 {
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+
+  .report-section {
+    page-break-inside: avoid;
+    margin-bottom: 8mm;
+  }
+
+  .page-break {
+    page-break-before: always;
+  }
+
+  /* Urdu needs the vertical room even in print, or Nastaliq clips. */
+  [lang="ur"],
+  [dir="rtl"] {
+    line-height: 2.1;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  /* Print the destination of a source link, since a reader cannot click paper. */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #444;
+  }
+}

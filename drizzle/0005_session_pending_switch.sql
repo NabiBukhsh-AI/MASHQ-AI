@@ -1,0 +1,1 @@
+ALTER TABLE "learning_sessions" ADD COLUMN "pending_switch" jsonb DEFAULT '[]'::jsonb NOT NULL;

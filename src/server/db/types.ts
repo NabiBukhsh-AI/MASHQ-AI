@@ -1,0 +1,22 @@
+import type { InferInsertModel, InferSelectModel } from "drizzle-orm";
+import type * as s from "./schema";
+
+export type Organization = InferSelectModel<typeof s.organizations>;
+export type User = InferSelectModel<typeof s.user>;
+export type Content = InferSelectModel<typeof s.contents>;
+export type NewContent = InferInsertModel<typeof s.contents>;
+export type ContentChunk = InferSelectModel<typeof s.contentChunks>;
+export type NewContentChunk = InferInsertModel<typeof s.contentChunks>;
+export type IngestJob = InferSelectModel<typeof s.ingestJobs>;
+export type Concept = InferSelectModel<typeof s.concepts>;
+export type Fact = InferSelectModel<typeof s.facts>;
+export type Journey = InferSelectModel<typeof s.journeys>;
+export type Mission = InferSelectModel<typeof s.missions>;
+export type LearningSession = InferSelectModel<typeof s.learningSessions>;
+export type Turn = InferSelectModel<typeof s.turns>;
+export type EvidenceEvent = InferSelectModel<typeof s.evidenceEvents>;
+export type NewEvidenceEvent = InferInsertModel<typeof s.evidenceEvents>;
+export type MasteryState = InferSelectModel<typeof s.masteryStates>;
+export type AdaptationEvent = InferSelectModel<typeof s.adaptationEvents>;
+export type ConfigRow = InferSelectModel<typeof s.configs>;
+export type LlmCall = InferInsertModel<typeof s.llmCalls>;

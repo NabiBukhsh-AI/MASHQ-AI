@@ -1,0 +1,38 @@
+name: smoke
+
+# Production smoke check. Read only and unauthenticated, so it is safe to run
+# on a schedule: it never signs in, never creates a session and never spends model credit.
+on:
+  schedule:
+    # 03:30 UTC is 08:30 in Karachi, so a failure is visible at the start of the working day.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Deployment to check
+        required: false
+
+jobs:
+  smoke:
+    # Skipped until a deployment is configured (repository variable EVAL_BASE_URL).
+    if: ${{ inputs.url || vars.EVAL_BASE_URL }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Smoke check production
+        env:
+          EVAL_BASE_URL: ${{ inputs.url || vars.EVAL_BASE_URL }}
+        run: pnpm smoke

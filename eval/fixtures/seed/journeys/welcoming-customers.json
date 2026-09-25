@@ -1,0 +1,1687 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-21T09:45:01.677Z",
+  "content": {
+    "title": "welcoming-customers",
+    "sourceType": "paste",
+    "sourceHash": "aaec650e411962e74edfe3de9048989b5dad874b0e8df8799ea8073941a43115",
+    "parserVersion": "v1",
+    "langPrimary": "en",
+    "status": "ready",
+    "stats": {
+      "bytes": 4565,
+      "chars": 4336,
+      "chunks": 10,
+      "tokens": 1031,
+      "scanned": false,
+      "redactions": 0,
+      "injectionFlags": 0
+    },
+    "warnings": []
+  },
+  "chunks": [
+    {
+      "ordinal": 0,
+      "text": "Welcoming customers at the branch",
+      "anchorKind": "section",
+      "anchorRef": "1",
+      "charStart": 0,
+      "charEnd": 33,
+      "headingPath": ["Welcoming customers at the branch"],
+      "tokenCount": 9,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 1,
+      "text": "A customer decides how the visit will go in the first minute. A greeting, eye contact and a clear next step turn a queue into a conversation. Branch staff who greet every customer within thirty seconds receive fewer complaints and close requests faster, because the customer explains the need once and to the right person.\n\nThe branch standard is simple: greet, listen, confirm, act. Greet the customer by name when you know it. Listen without interrupting. Confirm what you heard in one sentence. Act, or hand over to the colleague who can act, and say who that is.",
+      "anchorKind": "section",
+      "anchorRef": "2",
+      "charStart": 0,
+      "charEnd": 566,
+      "headingPath": ["Why the first minute matters"],
+      "tokenCount": 142,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 2,
+      "text": "Stand or turn towards the customer, smile and say \"Assalam o Alaikum\" or \"Good morning\". Use \"Sir\" or \"Madam\" only until you know the name; after that, use the name with respect: \"Mr Rasheed\" or \"Rasheed sahab\". Elderly customers and customers with children are offered a seat before anything else.\n\nDo not greet from behind a screen while typing. If you are finishing a task for another customer, look up, greet, and say how long it will take: \"Two minutes, please, I will be right with you.\"\n\nIn Urdu, a warm opening is \"Khush aamdeed, main aap ki kya madad kar sakta hoon?\" A customer who answers in Urdu should hear Urdu back. A customer who mixes Urdu and English is comfortable with both; mirror them.",
+      "anchorKind": "section",
+      "anchorRef": "3",
+      "charStart": 0,
+      "charEnd": 707,
+      "headingPath": ["Greeting"],
+      "tokenCount": 177,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 3,
+      "text": "Let the customer finish. Many complaints begin with a staff member guessing the request after three words. Note the key facts: the account type, the amount, the date and the document the customer has brought. Then confirm: \"So you want to update the mobile number on your savings account, and you have your original CNIC with you. Correct?\"\n\nIf the customer is upset, lower your voice and slow down. Say what you can do now and what will take time. Never say \"that is not my department\" without naming the person who will help and walking the customer to them.",
+      "anchorKind": "section",
+      "anchorRef": "4",
+      "charStart": 0,
+      "charEnd": 560,
+      "headingPath": ["Listening and confirming"],
+      "tokenCount": 140,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 4,
+      "text": "Every account change starts with identity verification. Ask for the original CNIC. Compare the photograph and the signature with the form. A photocopy is not accepted for account changes. If the CNIC has expired, the account cannot be updated until it is renewed; direct the customer to NADRA and record the visit so the next colleague knows.\n\nNever read a CNIC number aloud across the counter. Repeat only the last four digits if you must confirm it.",
+      "anchorKind": "section",
+      "anchorRef": "5",
+      "charStart": 0,
+      "charEnd": 451,
+      "headingPath": ["Identity first"],
+      "tokenCount": 113,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 5,
+      "text": "| Request | Who handles it | Typical time |\n| ------------------------------- | -------------------------------- | ------------------------ |\n| Balance or statement | Counter | 2 minutes |\n| Mobile number or address update | Counter with CNIC | 5 minutes |\n| New account | Relationship officer | 20 minutes |\n| Card block or reissue | Counter, then card desk | 5 minutes plus courier |\n| Complaint | Branch manager or complaint desk | Same day acknowledgement |\n\nTell the customer the typical time before you start. Customers tolerate waiting when they know how long it will be.",
+      "anchorKind": "section",
+      "anchorRef": "6",
+      "charStart": 0,
+      "charEnd": 578,
+      "headingPath": ["Common requests and where they go"],
+      "tokenCount": 145,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 6,
+      "text": "When you hand a customer to a colleague, walk with them or point clearly, give the colleague the summary in one sentence, and say goodbye to the customer by name. The customer should never have to explain the request twice.",
+      "anchorKind": "section",
+      "anchorRef": "7",
+      "charStart": 0,
+      "charEnd": 223,
+      "headingPath": ["Handing over"],
+      "tokenCount": 56,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 7,
+      "text": "Before the customer leaves, confirm the outcome: what was done, what happens next and when. Offer a printed or SMS confirmation where the system provides one. Thank the customer and invite them back: \"Shukriya, phir tashreef laiye.\"",
+      "anchorKind": "section",
+      "anchorRef": "8",
+      "charStart": 0,
+      "charEnd": 232,
+      "headingPath": ["Closing the visit"],
+      "tokenCount": 58,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 8,
+      "text": "1. Greeting late or not at all while finishing paperwork.\n2. Asking for the CNIC before greeting the customer.\n3. Reading account numbers or CNIC numbers aloud.\n4. Sending the customer to another counter without an introduction.\n5. Promising a time you cannot keep. Say \"usually five minutes\" rather than \"one minute\".",
+      "anchorKind": "section",
+      "anchorRef": "9",
+      "charStart": 0,
+      "charEnd": 318,
+      "headingPath": ["Common mistakes"],
+      "tokenCount": 80,
+      "lang": "en",
+      "injectionFlag": false
+    },
+    {
+      "ordinal": 9,
+      "text": "A customer in his seventies arrives at 12:40 looking confused, holding a folded statement. What do you do first? Offer a seat, greet him warmly, and ask an open question: \"Aap kis silsile mein tashreef laye hain?\" Then listen.\n\nA young customer says in one breath: \"I need to change my number, block my card and get a statement.\" Confirm all three, tell her the order and the time, and start with the card block because it protects her money.",
+      "anchorKind": "section",
+      "anchorRef": "10",
+      "charStart": 0,
+      "charEnd": 442,
+      "headingPath": ["Quick practice"],
+      "tokenCount": 111,
+      "lang": "en",
+      "injectionFlag": false
+    }
+  ],
+  "journey": {
+    "title": "First Impressions: Mastering the Branch Front Desk",
+    "outline": {
+      "story": {
+        "premise": "Aisha has just joined the branch as a new front desk officer. Her senior colleague guides her through real customer situations over her first week, helping her master the branch's greeting, listening, verification and handover standards before she is trusted to handle a busy afternoon alone.",
+        "setting": "A busy neighborhood bank branch in Pakistan, mid-morning with a steady stream of customers at the counters.",
+        "characters": [
+          {
+            "id": "aisha",
+            "mood": "eager but nervous",
+            "name": "Aisha",
+            "role": "New front desk officer",
+            "voiceProfile": "new_joiner"
+          },
+          {
+            "id": "rasheed_sahab",
+            "mood": "patient and encouraging",
+            "name": "Rasheed Sahab",
+            "role": "Senior branch officer and mentor",
+            "voiceProfile": "guide"
+          },
+          {
+            "id": "elderly_customer",
+            "mood": "confused and slightly anxious",
+            "name": "Chaudhry Sahab",
+            "role": "Elderly customer",
+            "voiceProfile": "customer_elder"
+          },
+          {
+            "id": "young_customer",
+            "mood": "hurried and direct",
+            "name": "Sana",
+            "role": "Young customer with multiple requests",
+            "voiceProfile": "customer_young"
+          }
+        ]
+      },
+      "title": "First Impressions: Mastering the Branch Front Desk",
+      "summary": "A short workplace training journey teaching branch staff in Pakistan how to greet customers, listen and confirm requests, verify identity correctly, route requests to the right colleague, and close interactions professionally, while avoiding common mistakes.",
+      "chapters": [
+        {
+          "key": "ch1_first_impressions",
+          "title": "The First Minute",
+          "arcBeat": "A new joiner at the branch learns why the opening moments of a customer visit set the tone for everything that follows.",
+          "missions": [
+            {
+              "key": "m1_greeting_standard",
+              "title": "Learn the Greet-Listen-Confirm-Act Standard",
+              "mechanic": "teach_back",
+              "objective": "Understand and recall the four-step branch standard for every customer interaction.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_greeting_standard"]
+            },
+            {
+              "key": "m2_greeting_etiquette",
+              "title": "Say It Right: Greetings in Urdu and English",
+              "mechanic": "roleplay",
+              "objective": "Practice greeting different customers appropriately, choosing language and titles correctly.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_first_minute_greeting"]
+            }
+          ]
+        },
+        {
+          "key": "ch2_listening_and_verifying",
+          "title": "Listening and Verifying",
+          "arcBeat": "The new joiner shadows a senior officer and practices truly listening to customers before confirming identity for sensitive changes.",
+          "missions": [
+            {
+              "key": "m3_confirm_request",
+              "title": "Confirm Before You Act",
+              "mechanic": "roleplay",
+              "objective": "Practice listening fully to a customer request and confirming it accurately in one sentence.",
+              "alternates": ["scenario", "puzzle"],
+              "conceptKeys": ["c_active_listening_confirmation"]
+            },
+            {
+              "key": "m4_identity_check",
+              "title": "Verify Identity the Right Way",
+              "mechanic": "scenario",
+              "objective": "Correctly verify a customer's identity using CNIC rules, including handling an expired CNIC.",
+              "alternates": ["decision", "puzzle"],
+              "conceptKeys": ["c_identity_verification"]
+            }
+          ]
+        },
+        {
+          "key": "ch3_routing_and_closing",
+          "title": "Routing and Closing the Loop",
+          "arcBeat": "The new joiner learns to direct customers to the right desk, hand them over smoothly, and close every visit with confidence.",
+          "missions": [
+            {
+              "key": "m5_route_request",
+              "title": "Send the Customer to the Right Desk",
+              "mechanic": "puzzle",
+              "objective": "Match customer requests to the correct handler and typical time, and communicate this before starting.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": ["c_request_routing", "c_warm_handover"]
+            },
+            {
+              "key": "m6_close_interaction",
+              "title": "Wrap Up with Confidence",
+              "mechanic": "roleplay",
+              "objective": "Confirm the outcome of a visit and close the interaction warmly before the customer leaves.",
+              "alternates": ["scenario", "teach_back"],
+              "conceptKeys": ["c_closing_interaction"]
+            }
+          ]
+        },
+        {
+          "key": "ch4_mastering_the_desk",
+          "title": "Mastering the Front Desk",
+          "arcBeat": "The new joiner faces tricky, realistic situations to prove they have mastered front desk service end to end.",
+          "missions": [
+            {
+              "key": "m7_avoid_mistakes",
+              "title": "Spot the Mistake",
+              "mechanic": "puzzle",
+              "objective": "Identify and correct common front desk mistakes shown in short scenarios.",
+              "alternates": ["decision", "teach_back"],
+              "conceptKeys": ["c_common_mistakes"]
+            },
+            {
+              "key": "m8_final_challenge",
+              "title": "A Busy Afternoon at the Branch",
+              "mechanic": "final_challenge",
+              "objective": "Handle an elderly confused customer and a customer with multiple urgent requests, applying every skill learned.",
+              "alternates": ["scenario", "decision"],
+              "conceptKeys": [
+                "c_prioritizing_multiple_requests",
+                "c_greeting_standard",
+                "c_identity_verification",
+                "c_request_routing"
+              ]
+            }
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "key": "c_greeting_standard",
+          "name": "Greeting Standard: Greet, Listen, Confirm, Act",
+          "nameUr": "استقبال کا اصول: ملاقات، سننا، تصدیق، عمل",
+          "summary": "The branch standard for every customer interaction: greet promptly, listen fully, confirm what was heard, then act or hand over clearly.",
+          "chunkIds": ["01a0b639-85e4-7f81-a1ba-8aca12612f03"],
+          "difficulty": 1,
+          "importance": 5,
+          "prerequisites": []
+        },
+        {
+          "key": "c_first_minute_greeting",
+          "name": "Greeting Etiquette and Language Choice",
+          "nameUr": "سلام کرنے کا انداز اور زبان کا انتخاب",
+          "summary": "How to physically and verbally greet customers, use Sir/Madam or names respectfully, prioritize elderly and customers with children, and mirror the customer's language (Urdu, English or mixed).",
+          "chunkIds": ["01a0b639-85e4-7ced-b447-2d9ad6542d30"],
+          "difficulty": 1,
+          "importance": 4,
+          "prerequisites": ["c_greeting_standard"]
+        },
+        {
+          "key": "c_active_listening_confirmation",
+          "name": "Active Listening and Confirming the Request",
+          "nameUr": "غور سے سننا اور درخواست کی تصدیق کرنا",
+          "summary": "Letting the customer finish speaking, noting key facts like account type, amount, date and documents, then confirming the request in one sentence before acting.",
+          "chunkIds": ["01a0b639-85e4-7d5a-8d45-b118c0b849fc"],
+          "difficulty": 2,
+          "importance": 5,
+          "prerequisites": ["c_greeting_standard"]
+        },
+        {
+          "key": "c_identity_verification",
+          "name": "Identity Verification for Account Changes",
+          "nameUr": "اکاؤنٹ تبدیلی کے لیے شناخت کی تصدیق",
+          "summary": "Rules for verifying identity using the original CNIC, comparing photo and signature, handling expired CNICs, and protecting CNIC numbers from being read aloud.",
+          "chunkIds": ["01a0b639-85e4-714c-a4e4-ccd62fad409e"],
+          "difficulty": 3,
+          "importance": 5,
+          "prerequisites": ["c_active_listening_confirmation"]
+        },
+        {
+          "key": "c_request_routing",
+          "name": "Routing Requests to the Right Person",
+          "nameUr": "درخواست کو صحیح شخص تک پہنچانا",
+          "summary": "Knowing which requests are handled at the counter versus by a relationship officer, card desk or branch manager, and communicating typical handling times to customers upfront.",
+          "chunkIds": ["01a0b639-85e4-7787-a89f-1d046098e744"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_active_listening_confirmation"]
+        },
+        {
+          "key": "c_warm_handover",
+          "name": "Handing Over Customers Smoothly",
+          "nameUr": "گاہک کو دوسرے عملے کے حوالے کرنا",
+          "summary": "How to transfer a customer to a colleague without making them repeat themselves: walk or point, summarize in one sentence, and say goodbye by name.",
+          "chunkIds": ["01a0b639-85e4-7c07-b747-702da1529caf"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_request_routing"]
+        },
+        {
+          "key": "c_closing_interaction",
+          "name": "Confirming Outcome and Closing the Interaction",
+          "nameUr": "نتیجہ کی تصدیق اور بات چیت کا اختتام",
+          "summary": "Before the customer leaves, confirm what was done, what happens next and when, offer confirmation where possible, and thank the customer warmly.",
+          "chunkIds": ["01a0b639-85e5-74a8-860c-91fe87db5665"],
+          "difficulty": 1,
+          "importance": 3,
+          "prerequisites": ["c_greeting_standard"]
+        },
+        {
+          "key": "c_common_mistakes",
+          "name": "Common Front Desk Mistakes to Avoid",
+          "nameUr": "عام غلطیاں جن سے بچنا ضروری ہے",
+          "summary": "Frequent errors such as greeting late, asking for CNIC before greeting, reading sensitive numbers aloud, sending customers away without introduction, and promising unrealistic times.",
+          "chunkIds": ["01a0b639-85e5-7bd8-a8b9-e21e40f905ec"],
+          "difficulty": 2,
+          "importance": 4,
+          "prerequisites": ["c_first_minute_greeting", "c_identity_verification", "c_warm_handover"]
+        },
+        {
+          "key": "c_prioritizing_multiple_requests",
+          "name": "Handling Multiple or Special-Needs Requests",
+          "nameUr": "متعدد یا خصوصی درخواستوں سے نمٹنا",
+          "summary": "Applying the greet-listen-confirm-act standard to complex cases: an elderly confused customer, or a customer with several requests that must be ordered by priority such as card block first.",
+          "chunkIds": ["01a0b639-85e5-7dbc-a6eb-8854904184e9"],
+          "difficulty": 3,
+          "importance": 4,
+          "prerequisites": ["c_request_routing", "c_identity_verification"]
+        }
+      ],
+      "warnings": [
+        "The document is a short workplace procedure guide rather than a long instructional text; the concept map and journey were built entirely from the limited content provided.",
+        "No instructions addressed to an AI system were found in the document."
+      ]
+    },
+    "story": {
+      "premise": "Aisha has just joined the branch as a new front desk officer. Her senior colleague guides her through real customer situations over her first week, helping her master the branch's greeting, listening, verification and handover standards before she is trusted to handle a busy afternoon alone.",
+      "setting": "A busy neighborhood bank branch in Pakistan, mid-morning with a steady stream of customers at the counters.",
+      "characters": [
+        {
+          "id": "aisha",
+          "mood": "eager but nervous",
+          "name": "Aisha",
+          "role": "New front desk officer",
+          "voiceProfile": "new_joiner"
+        },
+        {
+          "id": "rasheed_sahab",
+          "mood": "patient and encouraging",
+          "name": "Rasheed Sahab",
+          "role": "Senior branch officer and mentor",
+          "voiceProfile": "guide"
+        },
+        {
+          "id": "elderly_customer",
+          "mood": "confused and slightly anxious",
+          "name": "Chaudhry Sahab",
+          "role": "Elderly customer",
+          "voiceProfile": "customer_elder"
+        },
+        {
+          "id": "young_customer",
+          "mood": "hurried and direct",
+          "name": "Sana",
+          "role": "Young customer with multiple requests",
+          "voiceProfile": "customer_young"
+        }
+      ]
+    },
+    "designHash": "181223f5baf38ce4b07ba5d57e3e288d25a554459194e50ceb33baddf077ccd8",
+    "status": "ready",
+    "promptVersion": "design-2026-09-18"
+  },
+  "concepts": [
+    {
+      "key": "c_greeting_standard",
+      "name": "Greeting Standard: Greet, Listen, Confirm, Act",
+      "nameUr": "استقبال کا اصول: ملاقات، سننا، تصدیق، عمل",
+      "summary": "The branch standard for every customer interaction: greet promptly, listen fully, confirm what was heard, then act or hand over clearly.",
+      "difficulty": 1,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [1]
+    },
+    {
+      "key": "c_first_minute_greeting",
+      "name": "Greeting Etiquette and Language Choice",
+      "nameUr": "سلام کرنے کا انداز اور زبان کا انتخاب",
+      "summary": "How to physically and verbally greet customers, use Sir/Madam or names respectfully, prioritize elderly and customers with children, and mirror the customer's language (Urdu, English or mixed).",
+      "difficulty": 1,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [2]
+    },
+    {
+      "key": "c_active_listening_confirmation",
+      "name": "Active Listening and Confirming the Request",
+      "nameUr": "غور سے سننا اور درخواست کی تصدیق کرنا",
+      "summary": "Letting the customer finish speaking, noting key facts like account type, amount, date and documents, then confirming the request in one sentence before acting.",
+      "difficulty": 2,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [3]
+    },
+    {
+      "key": "c_identity_verification",
+      "name": "Identity Verification for Account Changes",
+      "nameUr": "اکاؤنٹ تبدیلی کے لیے شناخت کی تصدیق",
+      "summary": "Rules for verifying identity using the original CNIC, comparing photo and signature, handling expired CNICs, and protecting CNIC numbers from being read aloud.",
+      "difficulty": 3,
+      "importance": 5,
+      "misconceptions": [],
+      "chunkOrdinals": [4]
+    },
+    {
+      "key": "c_request_routing",
+      "name": "Routing Requests to the Right Person",
+      "nameUr": "درخواست کو صحیح شخص تک پہنچانا",
+      "summary": "Knowing which requests are handled at the counter versus by a relationship officer, card desk or branch manager, and communicating typical handling times to customers upfront.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [5]
+    },
+    {
+      "key": "c_warm_handover",
+      "name": "Handing Over Customers Smoothly",
+      "nameUr": "گاہک کو دوسرے عملے کے حوالے کرنا",
+      "summary": "How to transfer a customer to a colleague without making them repeat themselves: walk or point, summarize in one sentence, and say goodbye by name.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [6]
+    },
+    {
+      "key": "c_closing_interaction",
+      "name": "Confirming Outcome and Closing the Interaction",
+      "nameUr": "نتیجہ کی تصدیق اور بات چیت کا اختتام",
+      "summary": "Before the customer leaves, confirm what was done, what happens next and when, offer confirmation where possible, and thank the customer warmly.",
+      "difficulty": 1,
+      "importance": 3,
+      "misconceptions": [],
+      "chunkOrdinals": [7]
+    },
+    {
+      "key": "c_common_mistakes",
+      "name": "Common Front Desk Mistakes to Avoid",
+      "nameUr": "عام غلطیاں جن سے بچنا ضروری ہے",
+      "summary": "Frequent errors such as greeting late, asking for CNIC before greeting, reading sensitive numbers aloud, sending customers away without introduction, and promising unrealistic times.",
+      "difficulty": 2,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [9]
+    },
+    {
+      "key": "c_prioritizing_multiple_requests",
+      "name": "Handling Multiple or Special-Needs Requests",
+      "nameUr": "متعدد یا خصوصی درخواستوں سے نمٹنا",
+      "summary": "Applying the greet-listen-confirm-act standard to complex cases: an elderly confused customer, or a customer with several requests that must be ordered by priority such as card block first.",
+      "difficulty": 3,
+      "importance": 4,
+      "misconceptions": [],
+      "chunkOrdinals": [8]
+    }
+  ],
+  "facts": [
+    {
+      "key": "f_greet_first_minute",
+      "conceptKey": "c_greeting_standard",
+      "statement": "A customer decides how the visit will go in the first minute, so a greeting, eye contact and a clear next step matter immediately.",
+      "anchors": [
+        {
+          "end": 60,
+          "quote": "A customer decides how the visit will go in the first minute",
+          "start": 0,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_30sec_benefit",
+      "conceptKey": "c_greeting_standard",
+      "statement": "Branch staff who greet every customer within thirty seconds receive fewer complaints and close requests faster.",
+      "anchors": [
+        {
+          "end": 252,
+          "quote": "Branch staff who greet every customer within thirty seconds receive fewer complaints and close requests faster",
+          "start": 142,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_once_right_person",
+      "conceptKey": "c_greeting_standard",
+      "statement": "Greeting quickly means the customer explains the need once and to the right person.",
+      "anchors": [
+        {
+          "end": 321,
+          "quote": "the customer explains the need once and to the right person",
+          "start": 262,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_standard_four_steps",
+      "conceptKey": "c_greeting_standard",
+      "statement": "The branch standard is simple: greet, listen, confirm, act.",
+      "anchors": [
+        {
+          "end": 382,
+          "quote": "The branch standard is simple: greet, listen, confirm, act",
+          "start": 324,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_by_name",
+      "conceptKey": "c_greeting_standard",
+      "statement": "Greet the customer by name when you know it.",
+      "anchors": [
+        {
+          "end": 427,
+          "quote": "Greet the customer by name when you know it",
+          "start": 384,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_confirm_one_sentence",
+      "conceptKey": "c_greeting_standard",
+      "statement": "Confirm what you heard in one sentence.",
+      "anchors": [
+        {
+          "end": 496,
+          "quote": "Confirm what you heard in one sentence",
+          "start": 458,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_act_or_handover_named",
+      "conceptKey": "c_greeting_standard",
+      "statement": "Act, or hand over to the colleague who can act, and say who that is.",
+      "anchors": [
+        {
+          "end": 565,
+          "quote": "Act, or hand over to the colleague who can act, and say who that is",
+          "start": 498,
+          "chunkId": "01a0b639-85e4-7f81-a1ba-8aca12612f03"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_stand_smile",
+      "conceptKey": "c_first_minute_greeting",
+      "statement": "Stand or turn towards the customer, smile, and say Assalam o Alaikum or Good morning.",
+      "anchors": [
+        {
+          "end": 86,
+          "quote": "Stand or turn towards the customer, smile and say \"Assalam o Alaikum\" or \"Good morning",
+          "start": 0,
+          "chunkId": "01a0b639-85e4-7ced-b447-2d9ad6542d30"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_title_until_name",
+      "conceptKey": "c_first_minute_greeting",
+      "statement": "Use Sir or Madam only until you know the customer's name; after that use the name with respect, like Mr Rasheed or Rasheed sahab.",
+      "anchors": [
+        {
+          "end": 209,
+          "quote": "Use \"Sir\" or \"Madam\" only until you know the name; after that, use the name with respect: \"Mr Rasheed\" or \"Rasheed sahab",
+          "start": 89,
+          "chunkId": "01a0b639-85e4-7ced-b447-2d9ad6542d30"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_seat_elderly",
+      "conceptKey": "c_first_minute_greeting",
+      "statement": "Elderly customers and customers with children are offered a seat before anything else.",
+      "anchors": [
+        {
+          "end": 297,
+          "quote": "Elderly customers and customers with children are offered a seat before anything else",
+          "start": 212,
+          "chunkId": "01a0b639-85e4-7ced-b447-2d9ad6542d30"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_urdu_opening",
+      "conceptKey": "c_first_minute_greeting",
+      "statement": "A warm Urdu opening is 'Khush aamdeed, main aap ki kya madad kar sakta hoon?'",
+      "anchors": [
+        {
+          "end": 574,
+          "quote": "In Urdu, a warm opening is \"Khush aamdeed, main aap ki kya madad kar sakta hoon",
+          "start": 495,
+          "chunkId": "01a0b639-85e4-7ced-b447-2d9ad6542d30"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    },
+    {
+      "key": "f_greet_mirror_language",
+      "conceptKey": "c_first_minute_greeting",
+      "statement": "A customer who answers in Urdu should hear Urdu back, and a customer who mixes Urdu and English should be mirrored.",
+      "anchors": [
+        {
+          "end": 706,
+          "quote": "A customer who answers in Urdu should hear Urdu back. A customer who mixes Urdu and English is comfortable with both; mirror them",
+          "start": 577,
+          "chunkId": "01a0b639-85e4-7ced-b447-2d9ad6542d30"
+        }
+      ],
+      "quoteVerified": true,
+      "groundingStatus": "supported",
+      "groundingNote": null,
+      "promptVersion": "design-2026-09-18"
+    }
+  ],
+  "missions": [
+    {
+      "ordinal": 0,
+      "chapterKey": "ch1_first_impressions",
+      "title": "Learn the Greet-Listen-Confirm-Act Standard",
+      "primaryMechanic": "teach_back",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "ready",
+      "pack": {
+        "beats": [
+          {
+            "id": "b1_intro",
+            "kind": "intro",
+            "next": {
+              "correct": "b2_scenario",
+              "partial": "b2_scenario",
+              "incorrect": "b2_scenario"
+            },
+            "text": "The branch is busy. A new joiner named Bilal watches you handle the counter and asks how you always seem calm.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b2_scenario",
+            "kind": "scenario",
+            "next": {
+              "correct": "b3_decision",
+              "partial": "b3_decision",
+              "incorrect": "b3_recover"
+            },
+            "text": "A customer walks in looking impatient. You have three seconds to decide your first move.",
+            "speaker": "narrator",
+            "questionId": "q1_first_move"
+          },
+          {
+            "id": "b3_recover",
+            "kind": "consequence",
+            "next": {
+              "correct": "b3_decision",
+              "partial": "b3_decision",
+              "incorrect": "b3_decision"
+            },
+            "text": "The customer waits, unsure who noticed them. A small delay, but it shapes the whole visit.",
+            "speaker": "narrator",
+            "questionId": null
+          },
+          {
+            "id": "b3_decision",
+            "kind": "scenario",
+            "next": {
+              "correct": "b4_teach",
+              "partial": "b4_teach",
+              "incorrect": "b4_teach"
+            },
+            "text": "Back office staff also apply this standard when a branch colleague calls for help. What comes after listening?",
+            "speaker": "back_office_colleague",
+            "questionId": "q2_confirm_step"
+          },
+          {
+            "id": "b4_teach",
+            "kind": "teach_back",
+            "next": {
+              "correct": "b5_manager",
+              "partial": "b5_manager",
+              "incorrect": "b5_manager"
+            },
+            "text": "Bilal asks: can you walk me through the whole standard so I remember it on my first day?",
+            "speaker": "bilal_new_joiner",
+            "questionId": "q3_teach_back"
+          },
+          {
+            "id": "b5_manager",
+            "kind": "question",
+            "next": {
+              "correct": "b6_wrap",
+              "partial": "b6_wrap",
+              "incorrect": "b6_wrap"
+            },
+            "text": "Your manager reviews a handover case: a customer's need is passed to a colleague. What must you say?",
+            "speaker": "branch_manager",
+            "questionId": "q4_handover"
+          },
+          {
+            "id": "b6_wrap",
+            "kind": "wrap",
+            "next": {
+              "correct": null,
+              "partial": null,
+              "incorrect": null
+            },
+            "text": "Greet, listen, confirm, act. Every customer, every time. Bilal nods, ready for his first counter shift.",
+            "speaker": "narrator",
+            "questionId": null
+          }
+        ],
+        "title": {
+          "en": "Learn the Greet-Listen-Confirm-Act Standard",
+          "ur": "گریٹ-لسن-کنفرم-ایکٹ اصول سیکھیں",
+          "urLatn": "Greet-Listen-Confirm-Act Usool Seekhein"
+        },
+        "mechanic": "teach_back",
+        "roleplay": null,
+        "callbacks": [
+          {
+            "id": "cb1_four_steps",
+            "prompt": "Quick recall: what are the four steps of the branch standard, in order?",
+            "keyPoints": ["Greet, listen, confirm, act, in that exact order."],
+            "conceptKey": "c_greeting_standard"
+          },
+          {
+            "id": "cb2_handover_name",
+            "prompt": "Quick recall: when handing over to a colleague, what detail must you always include?",
+            "keyPoints": ["You must say who exactly the customer is being handed to."],
+            "conceptKey": "c_greeting_standard"
+          }
+        ],
+        "objective": "Understand and recall the four-step branch standard for every customer interaction.",
+        "questions": [
+          {
+            "id": "q1_first_move",
+            "kind": "choice",
+            "hints": [
+              "Think about what happens in the very first moments of a visit.",
+              "The standard begins with a specific action involving the customer's name.",
+              "Greeting quickly, ideally within thirty seconds, sets the tone."
+            ],
+            "pairs": null,
+            "prompt": "The customer just approached your counter looking impatient. What is your first move?",
+            "factIds": [
+              "f_greet_by_name",
+              "f_greet_first_minute",
+              "f_greet_30sec_benefit",
+              "f_greet_once_right_person"
+            ],
+            "options": [
+              {
+                "id": "o1a",
+                "label": {
+                  "en": "Greet them right away, by name if you know it",
+                  "ur": "فوراً ان کا استقبال کریں، اگر نام معلوم ہو تو نام سے",
+                  "urLatn": "Foran unka istaqbal karein, agar naam maloom ho to naam se"
+                },
+                "correct": true,
+                "factIds": ["f_greet_by_name", "f_greet_first_minute", "f_greet_30sec_benefit"],
+                "consequence": "The customer relaxes, feeling noticed, and states their need calmly.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o1b",
+                "label": {
+                  "en": "Finish your current task fully before acknowledging them",
+                  "ur": "پہلے اپنا موجودہ کام مکمل کریں پھر توجہ دیں",
+                  "urLatn": "Pehle apna mojooda kaam mukammal karein phir tawajjo dein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_first_minute"],
+                "consequence": "The customer waits without acknowledgment, and the visit starts poorly.",
+                "misconceptionId": "m_delay_greeting_ok"
+              },
+              {
+                "id": "o1c",
+                "label": {
+                  "en": "Ask them to explain everything to whoever is free",
+                  "ur": "انہیں کہیں کہ جو بھی فارغ ہو اسے سب کچھ بتا دیں",
+                  "urLatn": "Unhein kahein ke jo bhi farigh ho usay sab kuch bata dein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_once_right_person"],
+                "consequence": "The customer repeats their need to multiple staff, wasting time.",
+                "misconceptionId": "m_repetition_acceptable"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The customer approaches during a rush with no visible frustration. What is your first move, and why does timing matter?",
+              "standard": "The customer just approached your counter looking impatient. What is your first move?",
+              "foundation": "A customer walks up. What do you do first?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_greeting_standard",
+            "workedExample": "A regular customer, Mr. Khan, approaches. You say 'Good morning, Mr. Khan' and ask how you can help. He immediately explains his request, once, calmly."
+          },
+          {
+            "id": "q2_confirm_step",
+            "kind": "choice",
+            "hints": [
+              "Recall the four words of the standard in order.",
+              "The third step is about checking your own understanding, briefly.",
+              "One sentence is enough to confirm what was heard."
+            ],
+            "pairs": null,
+            "prompt": "After you have listened to the customer without interrupting, what should you do next?",
+            "factIds": ["f_confirm_one_sentence", "f_standard_four_steps"],
+            "options": [
+              {
+                "id": "o2a",
+                "label": {
+                  "en": "Confirm what you heard in one sentence",
+                  "ur": "جو سنا اسے ایک جملے میں دہرائیں",
+                  "urLatn": "Jo suna usay ek jumlay mein dohrayein"
+                },
+                "correct": true,
+                "factIds": ["f_confirm_one_sentence", "f_standard_four_steps"],
+                "consequence": "The customer confirms or corrects, avoiding wasted work later.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o2b",
+                "label": {
+                  "en": "Start acting on the request immediately",
+                  "ur": "فوراً درخواست پر عمل شروع کر دیں",
+                  "urLatn": "Foran darkhwast par amal shuru kar dein"
+                },
+                "correct": false,
+                "factIds": ["f_confirm_one_sentence"],
+                "consequence": "You may act on a misunderstood need, causing rework or complaints.",
+                "misconceptionId": "m_skip_confirm"
+              },
+              {
+                "id": "o2c",
+                "label": {
+                  "en": "Ask them to repeat the whole request again",
+                  "ur": "انہیں پوری درخواست دوبارہ دہرانے کو کہیں",
+                  "urLatn": "Unhein poori darkhwast dobara dohranay ko kahein"
+                },
+                "correct": false,
+                "factIds": ["f_confirm_one_sentence"],
+                "consequence": "The customer feels unheard and frustrated by unnecessary repetition.",
+                "misconceptionId": "m_repeat_instead_confirm"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "A colleague listens fully but then immediately starts processing the request. What step did they skip, and why does it matter?",
+              "standard": "After you have listened to the customer without interrupting, what should you do next?",
+              "foundation": "What comes right after listening in the standard?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_greeting_standard",
+            "workedExample": "The customer explains a lost card. You say, 'So you'd like to report your card lost and get a replacement, correct?' They nod."
+          },
+          {
+            "id": "q3_teach_back",
+            "kind": "teach_back",
+            "hints": [
+              "There are exactly four steps, in a fixed order.",
+              "The steps are: greet, listen, confirm, act.",
+              "Don't forget that 'act' can mean handing over, but you must name who."
+            ],
+            "pairs": null,
+            "prompt": "Explain the full greet-listen-confirm-act standard to Bilal, a new joiner, in your own words.",
+            "factIds": [
+              "f_standard_four_steps",
+              "f_greet_by_name",
+              "f_confirm_one_sentence",
+              "f_act_or_handover_named"
+            ],
+            "options": null,
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "Explain the standard to Bilal and also justify why skipping the handover step causes problems.",
+              "standard": "Explain the full greet-listen-confirm-act standard to Bilal, a new joiner, in your own words.",
+              "foundation": "Tell Bilal the four steps of the standard in order."
+            },
+            "answerKey": {
+              "rubric": [
+                "Mentions all four steps in the correct order.",
+                "Notes that greeting uses the customer's name when known.",
+                "Notes that handover requires naming the responsible colleague."
+              ],
+              "keyPoints": [
+                {
+                  "text": "Greet the customer, using their name if known.",
+                  "factIds": ["f_greet_by_name"]
+                },
+                {
+                  "text": "Listen without interrupting.",
+                  "factIds": ["f_standard_four_steps"]
+                },
+                {
+                  "text": "Confirm what you heard in one sentence.",
+                  "factIds": ["f_confirm_one_sentence"]
+                },
+                {
+                  "text": "Act yourself, or hand over and name the colleague who will act.",
+                  "factIds": ["f_act_or_handover_named"]
+                }
+              ]
+            },
+            "conceptKey": "c_greeting_standard",
+            "workedExample": "Greet the customer by name, listen fully, confirm in one line, then either solve it or say 'Let me connect you with Ayesha, who handles this.'"
+          },
+          {
+            "id": "q4_handover",
+            "kind": "choice",
+            "hints": [
+              "The last step of the standard is 'act', including handovers.",
+              "A handover is not complete without a specific detail.",
+              "Name the colleague who will take over."
+            ],
+            "pairs": null,
+            "prompt": "You cannot resolve the request yourself and must hand it to a colleague. What must you tell the customer?",
+            "factIds": ["f_act_or_handover_named"],
+            "options": [
+              {
+                "id": "o4a",
+                "label": {
+                  "en": "Say who exactly will help them",
+                  "ur": "بتائیں کہ بالکل کون ان کی مدد کرے گا",
+                  "urLatn": "Batayein ke bilkul kaun unki madad karega"
+                },
+                "correct": true,
+                "factIds": ["f_act_or_handover_named"],
+                "consequence": "The customer knows exactly who to expect and feels the visit is under control.",
+                "misconceptionId": null
+              },
+              {
+                "id": "o4b",
+                "label": {
+                  "en": "Just say someone will assist them soon",
+                  "ur": "بس کہہ دیں کہ کوئی جلد مدد کرے گا",
+                  "urLatn": "Bas keh dein ke koi jald madad karega"
+                },
+                "correct": false,
+                "factIds": ["f_act_or_handover_named", "f_greet_once_right_person"],
+                "consequence": "The customer is left uncertain and may need to explain their need again.",
+                "misconceptionId": "m_vague_handover"
+              },
+              {
+                "id": "o4c",
+                "label": {
+                  "en": "Nothing, just walk away to find the colleague",
+                  "ur": "کچھ نہ کہیں، بس ساتھی کو ڈھونڈنے چلے جائیں",
+                  "urLatn": "Kuch na kahein, bas saathi ko dhoondnay chalay jayein"
+                },
+                "correct": false,
+                "factIds": ["f_act_or_handover_named"],
+                "consequence": "The customer is confused and unsure if they were understood at all.",
+                "misconceptionId": "m_silent_handover"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "A manager reviews a handover where staff said only 'someone will help you.' What was missing from the standard?",
+              "standard": "You cannot resolve the request yourself and must hand it to a colleague. What must you tell the customer?",
+              "foundation": "You can't help directly. What do you tell the customer?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_greeting_standard",
+            "workedExample": "You say, 'I'll hand this to Sana at the loans desk, she'll assist you now.' The customer knows exactly who to look for."
+          }
+        ],
+        "teachBack": {
+          "ask": "Bilal asks: can you walk me through the whole standard so I remember it on my first day?",
+          "followUp": "Why does greeting within the first minute matter so much for the rest of the visit?",
+          "keyPoints": [
+            {
+              "text": "Greet the customer, by name when known.",
+              "factIds": ["f_greet_by_name"]
+            },
+            {
+              "text": "Listen without interrupting.",
+              "factIds": ["f_greet_first_minute"]
+            },
+            {
+              "text": "Confirm what you heard in one sentence.",
+              "factIds": ["f_confirm_one_sentence"]
+            },
+            {
+              "text": "Act, or name the colleague who will act.",
+              "factIds": ["f_act_or_handover_named"]
+            }
+          ]
+        },
+        "alternates": ["scenario", "decision"],
+        "missionKey": "m1_greeting_standard",
+        "glossaryHints": [
+          {
+            "term": "greet",
+            "speechUr": "استقبال کریں"
+          },
+          {
+            "term": "confirm",
+            "speechUr": "تصدیق کریں"
+          },
+          {
+            "term": "handover",
+            "speechUr": "منتقلی"
+          }
+        ]
+      },
+      "promptVersion": "design-2026-09-18",
+      "conceptKeys": ["c_greeting_standard"]
+    },
+    {
+      "ordinal": 1,
+      "chapterKey": "ch1_first_impressions",
+      "title": "Say It Right: Greetings in Urdu and English",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "ready",
+      "pack": {
+        "beats": [
+          {
+            "id": "beat_intro",
+            "kind": "intro",
+            "next": {
+              "correct": "beat_scenario1",
+              "partial": "beat_scenario1",
+              "incorrect": "beat_scenario1"
+            },
+            "text": "An elderly customer walks up to your counter while you finish typing. Your first move sets the tone.",
+            "speaker": "Narrator",
+            "questionId": null
+          },
+          {
+            "id": "beat_scenario1",
+            "kind": "scenario",
+            "next": {
+              "correct": "beat_roleplay",
+              "partial": "beat_roleplay",
+              "incorrect": "beat_roleplay"
+            },
+            "text": "She looks tired and hasn't spoken yet. You are mid-task on your screen.",
+            "speaker": "Narrator",
+            "questionId": "q_greet_elderly"
+          },
+          {
+            "id": "beat_roleplay",
+            "kind": "roleplay",
+            "next": {
+              "correct": "beat_scenario2",
+              "partial": "beat_scenario2",
+              "incorrect": "beat_scenario2"
+            },
+            "text": "Assalam o Alaikum beta, mujhe apna account check karwana hai.",
+            "speaker": "Customer",
+            "questionId": "q_roleplay_language"
+          },
+          {
+            "id": "beat_scenario2",
+            "kind": "scenario",
+            "next": {
+              "correct": "beat_teach",
+              "partial": "beat_teach",
+              "incorrect": "beat_teach"
+            },
+            "text": "A new customer approaches; you don't know his name yet.",
+            "speaker": "Narrator",
+            "questionId": "q_title_choice"
+          },
+          {
+            "id": "beat_teach",
+            "kind": "teach_back",
+            "next": {
+              "correct": "beat_wrap",
+              "partial": "beat_wrap",
+              "incorrect": "beat_wrap"
+            },
+            "text": "Why does the greeting change once we learn the customer's name?",
+            "speaker": "New Joiner",
+            "questionId": "q_teachback_title"
+          },
+          {
+            "id": "beat_wrap",
+            "kind": "wrap",
+            "next": {
+              "correct": null,
+              "partial": null,
+              "incorrect": null
+            },
+            "text": "Great work! You greeted warmly, matched language, offered a seat, and used titles correctly.",
+            "speaker": "Narrator",
+            "questionId": null
+          }
+        ],
+        "title": {
+          "en": "Say It Right: Greetings in Urdu and English",
+          "ur": "صحیح انداز: اردو اور انگریزی میں سلام",
+          "urLatn": "Sahi Andaz: Urdu aur English mein Salaam"
+        },
+        "mechanic": "roleplay",
+        "roleplay": {
+          "goal": "Get her account balance checked quickly and be treated with respect",
+          "mood": "tired but polite",
+          "openers": [
+            "Assalam o Alaikum beta, mujhe apna account check karwana hai.",
+            "Good morning, can someone please help me with my account?",
+            "Beta zara jaldi, mujhe garmi lag rahi hai, baith kar baat kar sakte hain?"
+          ],
+          "behaviors": [
+            {
+              "id": "beh_looks_up",
+              "text": "Staff looks up from screen immediately and smiles",
+              "factIds": ["f_greet_stand_smile"]
+            },
+            {
+              "id": "beh_offers_seat",
+              "text": "Staff offers her a seat before starting the task",
+              "factIds": ["f_greet_seat_elderly"]
+            },
+            {
+              "id": "beh_matches_language",
+              "text": "Staff replies in Urdu since she spoke Urdu",
+              "factIds": ["f_greet_mirror_language", "f_greet_urdu_opening"]
+            },
+            {
+              "id": "beh_uses_title",
+              "text": "Staff uses Madam or her name respectfully once known",
+              "factIds": ["f_greet_title_until_name"]
+            }
+          ],
+          "customerId": "cust_elderly_woman"
+        },
+        "callbacks": [
+          {
+            "id": "cb_seat_offer",
+            "prompt": "Who should be offered a seat before anything else happens?",
+            "keyPoints": [
+              "Elderly customers and customers with children are offered a seat before anything else."
+            ],
+            "conceptKey": "c_first_minute_greeting"
+          },
+          {
+            "id": "cb_language_mirror",
+            "prompt": "If a customer speaks to you in Urdu, what language should you reply in?",
+            "keyPoints": [
+              "A customer who answers in Urdu should hear Urdu back.",
+              "A customer mixing Urdu and English should be mirrored."
+            ],
+            "conceptKey": "c_first_minute_greeting"
+          }
+        ],
+        "objective": "Practice greeting different customers appropriately, choosing language and titles correctly.",
+        "questions": [
+          {
+            "id": "q_greet_elderly",
+            "kind": "choice",
+            "hints": [
+              "Think about what you should do with your eyes and body before speaking.",
+              "Elderly customers have a special courtesy beyond just a greeting.",
+              "Look up, greet, and offer her a seat right away."
+            ],
+            "pairs": null,
+            "prompt": "An elderly customer arrives while you are typing. What do you do first?",
+            "factIds": ["f_greet_stand_smile", "f_greet_seat_elderly"],
+            "options": [
+              {
+                "id": "opt_look_greet_seat",
+                "label": {
+                  "en": "Look up, greet her, and offer a seat",
+                  "ur": "نظر اٹھائیں، سلام کریں اور بیٹھنے کو کہیں",
+                  "urLatn": "Nazar uthayein, salaam karein aur baithne ko kahein"
+                },
+                "correct": true,
+                "factIds": ["f_greet_stand_smile", "f_greet_seat_elderly"],
+                "consequence": "She smiles and sits down, feeling respected.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_finish_typing",
+                "label": {
+                  "en": "Finish typing first, then greet her",
+                  "ur": "پہلے ٹائپنگ مکمل کریں، پھر سلام کریں",
+                  "urLatn": "Pehle typing mukammal karein, phir salaam karein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_stand_smile"],
+                "consequence": "She stands waiting awkwardly, feeling ignored.",
+                "misconceptionId": "m_ignore_while_busy"
+              },
+              {
+                "id": "opt_greet_no_seat",
+                "label": {
+                  "en": "Greet her but don't mention a seat",
+                  "ur": "سلام کریں مگر بیٹھنے کا نہ کہیں",
+                  "urLatn": "Salaam karein magar baithne ka na kahein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_seat_elderly"],
+                "consequence": "She remains standing though she looks tired.",
+                "misconceptionId": "m_skip_seat_offer"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "An elderly customer arrives while you are mid-task on the screen for someone else. What is your correct first move, and what do you say?",
+              "standard": "An elderly customer arrives while you are typing and looks tired. What is your first move?",
+              "foundation": "An elderly customer arrives while you are typing. What do you do first?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_first_minute_greeting",
+            "workedExample": "Customer approaches while you type. You look up, smile, say 'Assalam o Alaikum', and offer a seat since she is elderly."
+          },
+          {
+            "id": "q_roleplay_language",
+            "kind": "choice",
+            "hints": [
+              "Notice which language the customer used first.",
+              "The rule says to mirror the customer's comfort level.",
+              "She spoke Urdu, so reply in Urdu."
+            ],
+            "pairs": null,
+            "prompt": "The customer greets you in Urdu: 'Assalam o Alaikum beta.' How do you respond?",
+            "factIds": ["f_greet_mirror_language", "f_greet_urdu_opening"],
+            "options": [
+              {
+                "id": "opt_reply_urdu",
+                "label": {
+                  "en": "Reply in Urdu, matching her language",
+                  "ur": "اردو میں جواب دیں، ان کی زبان سے مطابقت رکھتے ہوئے",
+                  "urLatn": "Urdu mein jawab dein, un ki zaban se mutabiqat rakhte hue"
+                },
+                "correct": true,
+                "factIds": ["f_greet_mirror_language", "f_greet_urdu_opening"],
+                "consequence": "She feels comfortable and continues the conversation easily.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_reply_english",
+                "label": {
+                  "en": "Reply in English regardless",
+                  "ur": "بہرحال انگریزی میں جواب دیں",
+                  "urLatn": "Beharhaal English mein jawab dein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_mirror_language"],
+                "consequence": "She looks a bit confused and slows down her speech.",
+                "misconceptionId": "m_ignore_customer_language"
+              },
+              {
+                "id": "opt_reply_mixed",
+                "label": {
+                  "en": "Reply in a random mix she didn't use",
+                  "ur": "ایسا ملاپ استعمال کریں جو انہوں نے استعمال نہیں کیا",
+                  "urLatn": "Aisa milaap istemal karein jo unhon ne istemal nahi kiya"
+                },
+                "correct": false,
+                "factIds": ["f_greet_mirror_language"],
+                "consequence": "The mismatch feels slightly odd to her.",
+                "misconceptionId": "m_ignore_customer_language"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "The customer greets you in Urdu and asks about her account in Urdu. Choose the best full response.",
+              "standard": "The customer greets you fully in Urdu. What language should your reply be in?",
+              "foundation": "The customer says 'Assalam o Alaikum' to you. How do you respond?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_first_minute_greeting",
+            "workedExample": "Customer says 'Assalam o Alaikum beta, mujhe apna account check karwana hai.' You reply in Urdu: 'Khush aamdeed, main aap ki kya madad kar sakta hoon?'"
+          },
+          {
+            "id": "q_title_choice",
+            "kind": "choice",
+            "hints": [
+              "Before you know a name, a general respectful title is used.",
+              "Sir or Madam is the placeholder until the name is known.",
+              "Use Sir, then switch to his name like Rasheed sahab once known."
+            ],
+            "pairs": null,
+            "prompt": "A new customer approaches and you don't know his name yet. How do you address him?",
+            "factIds": ["f_greet_title_until_name"],
+            "options": [
+              {
+                "id": "opt_sir_then_name",
+                "label": {
+                  "en": "Call him Sir first, then use his name once known",
+                  "ur": "پہلے 'سر' کہیں، نام معلوم ہونے پر نام استعمال کریں",
+                  "urLatn": "Pehle 'Sir' kahein, naam maloom hone par naam istemal karein"
+                },
+                "correct": true,
+                "factIds": ["f_greet_title_until_name"],
+                "consequence": "He appreciates the respectful, personalized address.",
+                "misconceptionId": null
+              },
+              {
+                "id": "opt_name_guess",
+                "label": {
+                  "en": "Guess a name before he tells you",
+                  "ur": "بتانے سے پہلے نام کا اندازہ لگائیں",
+                  "urLatn": "Batane se pehle naam ka andaza lagayein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_title_until_name"],
+                "consequence": "He looks puzzled since that isn't his name.",
+                "misconceptionId": "m_guess_name_early"
+              },
+              {
+                "id": "opt_no_title_ever",
+                "label": {
+                  "en": "Never use Sir, wait silently for his name",
+                  "ur": "کبھی 'سر' نہ کہیں، خاموشی سے نام کا انتظار کریں",
+                  "urLatn": "Kabhi 'Sir' na kahein, khamoshi se naam ka intezar karein"
+                },
+                "correct": false,
+                "factIds": ["f_greet_title_until_name", "f_greet_stand_smile"],
+                "consequence": "The silence feels awkward and unwelcoming.",
+                "misconceptionId": "m_skip_initial_title"
+              }
+            ],
+            "passage": null,
+            "sequence": null,
+            "variants": {
+              "advanced": "After learning his name is Rasheed, how should your address change from the initial greeting?",
+              "standard": "A new customer approaches; his name is not yet known. Choose the correct title.",
+              "foundation": "You don't know the new customer's name yet. What do you call him?"
+            },
+            "answerKey": null,
+            "conceptKey": "c_first_minute_greeting",
+            "workedExample": "You greet an unfamiliar man with 'Good morning, Sir'. He says his name is Rasheed. You then say 'Please have a seat, Rasheed sahab.'"
+          }
+        ],
+        "teachBack": {
+          "ask": "Why does the greeting change once we learn the customer's name?",
+          "followUp": "What would you say to a customer named Rasheed once you know his name?",
+          "keyPoints": [
+            {
+              "text": "Sir or Madam is used only until the name is known, then the name is used respectfully",
+              "factIds": ["f_greet_title_until_name"]
+            },
+            {
+              "text": "Using the name shows personal respect and attention beyond a generic title",
+              "factIds": ["f_greet_title_until_name"]
+            }
+          ]
+        },
+        "alternates": ["scenario", "decision"],
+        "missionKey": "m2_greeting_etiquette",
+        "glossaryHints": [
+          {
+            "term": "Assalam o Alaikum",
+            "speechUr": "السلام علیکم"
+          },
+          {
+            "term": "Khush aamdeed",
+            "speechUr": "خوش آمدید"
+          },
+          {
+            "term": "Sahab",
+            "speechUr": "صاحب"
+          },
+          {
+            "term": "Madam",
+            "speechUr": "میڈم"
+          }
+        ]
+      },
+      "promptVersion": "design-2026-09-18",
+      "conceptKeys": ["c_first_minute_greeting"]
+    },
+    {
+      "ordinal": 2,
+      "chapterKey": "ch2_listening_and_verifying",
+      "title": "Confirm Before You Act",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "puzzle"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_active_listening_confirmation"]
+    },
+    {
+      "ordinal": 3,
+      "chapterKey": "ch2_listening_and_verifying",
+      "title": "Verify Identity the Right Way",
+      "primaryMechanic": "scenario",
+      "alternates": ["decision", "puzzle"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_identity_verification"]
+    },
+    {
+      "ordinal": 4,
+      "chapterKey": "ch3_routing_and_closing",
+      "title": "Send the Customer to the Right Desk",
+      "primaryMechanic": "puzzle",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_request_routing", "c_warm_handover"]
+    },
+    {
+      "ordinal": 5,
+      "chapterKey": "ch3_routing_and_closing",
+      "title": "Wrap Up with Confidence",
+      "primaryMechanic": "roleplay",
+      "alternates": ["scenario", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_closing_interaction"]
+    },
+    {
+      "ordinal": 6,
+      "chapterKey": "ch4_mastering_the_desk",
+      "title": "Spot the Mistake",
+      "primaryMechanic": "puzzle",
+      "alternates": ["decision", "teach_back"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": ["c_common_mistakes"]
+    },
+    {
+      "ordinal": 7,
+      "chapterKey": "ch4_mastering_the_desk",
+      "title": "A Busy Afternoon at the Branch",
+      "primaryMechanic": "final_challenge",
+      "alternates": ["scenario", "decision"],
+      "packStatus": "pending",
+      "pack": null,
+      "promptVersion": null,
+      "conceptKeys": [
+        "c_prioritizing_multiple_requests",
+        "c_greeting_standard",
+        "c_identity_verification",
+        "c_request_routing"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "termEn": "CNIC",
+      "termUr": "سی این آئی سی",
+      "termRoman": "CNIC",
+      "definition": "Original identity document required for account changes and verification at the counter.",
+      "speechHint": "سی این آئی سی"
+    },
+    {
+      "termEn": "identity verification",
+      "termUr": "شناخت کی تصدیق",
+      "termRoman": "Shaakhat ki tasdeeq",
+      "definition": "Process of confirming customer identity using original CNIC before any account changes.",
+      "speechHint": "آئیڈینٹٹی ویریفکیشن"
+    },
+    {
+      "termEn": "account change",
+      "termUr": "اکاؤنٹ میں تبدیلی",
+      "termRoman": "Account mein tabdeeli",
+      "definition": "Any modification to account details such as mobile number or address requiring identity verification.",
+      "speechHint": "اکاؤنٹ چینج"
+    },
+    {
+      "termEn": "savings account",
+      "termUr": "بچت اکاؤنٹ",
+      "termRoman": "Bachat account",
+      "definition": "Type of account where customers can update details like mobile number.",
+      "speechHint": "سیونگز اکاؤنٹ"
+    },
+    {
+      "termEn": "card block",
+      "termUr": "کارڈ بند کرنا",
+      "termRoman": "Card band karna",
+      "definition": "Service to deactivate a customer's card, handled at counter then card desk.",
+      "speechHint": "کارڈ بلاک"
+    },
+    {
+      "termEn": "card reissue",
+      "termUr": "کارڈ دوبارہ جاری کرنا",
+      "termRoman": "Card dobara jaari karna",
+      "definition": "Process of issuing a replacement card to customer, involving counter and card desk.",
+      "speechHint": "کارڈ ری ایشو"
+    },
+    {
+      "termEn": "relationship officer",
+      "termUr": "رشتہ داری افسر",
+      "termRoman": "Rishta dari afsar",
+      "definition": "Staff member who handles new account requests, typically requiring 20 minutes.",
+      "speechHint": "ری لیشن شپ آفسر"
+    },
+    {
+      "termEn": "counter",
+      "termUr": "کاؤنٹر",
+      "termRoman": "Counter",
+      "definition": "Service point where staff handle balance, statements, and mobile number updates.",
+      "speechHint": "کاؤنٹر"
+    },
+    {
+      "termEn": "complaint desk",
+      "termUr": "شکایت کی ڈیسک",
+      "termRoman": "Shikayat ki desk",
+      "definition": "Service point where branch manager or staff handle customer complaints with same-day acknowledgement.",
+      "speechHint": "کمپلین ٹ ڈیسک"
+    },
+    {
+      "termEn": "balance",
+      "termUr": "بیلنس",
+      "termRoman": "Balance",
+      "definition": "Account balance inquiry service available at counter within 2 minutes.",
+      "speechHint": "بیلنس"
+    },
+    {
+      "termEn": "statement",
+      "termUr": "بیان",
+      "termRoman": "Bayan",
+      "definition": "Account statement provided at counter within 2 minutes or confirmed in SMS.",
+      "speechHint": "سٹیٹ منٹ"
+    },
+    {
+      "termEn": "mobile number update",
+      "termUr": "موبائل نمبر کی تبدیلی",
+      "termRoman": "Mobile number ki tabdeeli",
+      "definition": "Account change service requiring CNIC verification, completed at counter in 5 minutes.",
+      "speechHint": "موبائل نمبر اپ ڈیٹ"
+    },
+    {
+      "termEn": "address update",
+      "termUr": "پتہ کی تبدیلی",
+      "termRoman": "Pata ki tabdeeli",
+      "definition": "Account change service requiring CNIC verification, completed at counter in 5 minutes.",
+      "speechHint": "ایڈریس اپ ڈیٹ"
+    },
+    {
+      "termEn": "new account",
+      "termUr": "نیا اکاؤنٹ",
+      "termRoman": "Naya account",
+      "definition": "Account opening service handled by relationship officer, typically requiring 20 minutes.",
+      "speechHint": "نیو اکاؤنٹ"
+    },
+    {
+      "termEn": "courier",
+      "termUr": "کوریئر",
+      "termRoman": "Courier",
+      "definition": "Delivery service used for card reissue, adding time beyond the 5-minute counter service.",
+      "speechHint": "کوریئر"
+    },
+    {
+      "termEn": "NADRA",
+      "termUr": "نادرا",
+      "termRoman": "NADRA",
+      "definition": "National authority where customers must renew expired CNIC before account updates.",
+      "speechHint": "نادرا"
+    },
+    {
+      "termEn": "photocopy",
+      "termUr": "فوٹو کاپی",
+      "termRoman": "Photo copy",
+      "definition": "Document copy not accepted for account changes; original CNIC required.",
+      "speechHint": "فوٹو کاپی"
+    },
+    {
+      "termEn": "branch standard",
+      "termUr": "برانچ کا معیار",
+      "termRoman": "Branch ka maiyar",
+      "definition": "Service protocol: greet, listen, confirm, act to reduce complaints and close requests faster.",
+      "speechHint": "برانچ سٹینڈرڈ"
+    },
+    {
+      "termEn": "account type",
+      "termUr": "اکاؤنٹ کی قسم",
+      "termRoman": "Account ki qism",
+      "definition": "Classification of account such as savings account, noted during customer request confirmation.",
+      "speechHint": "اکاؤنٹ ٹائپ"
+    },
+    {
+      "termEn": "account number",
+      "termUr": "اکاؤنٹ نمبر",
+      "termRoman": "Account number",
+      "definition": "Unique identifier for customer account that should never be read aloud at counter.",
+      "speechHint": "اکاؤنٹ نمبر"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE "evidence_events" ADD COLUMN "guess" real;

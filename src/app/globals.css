@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+:root {
+  /* Mashq Palette: Local Materials */
+  --color-ink: #1f2a30;
+  --color-paper: #f4f6f2;
+  --color-neem: #1e6b52;
+  --color-haldi: #d6951c;
+  --color-mist: #d9e0dc;
+  --color-kattha: #a63a32;
+
+  /* Baseline semantics */
+  --background: var(--color-paper);
+  --foreground: var(--color-ink);
+
+  /* User text scale factor (1 = default, 1.15 = large, 1.3 = xlarge) */
+  --text-scale: 1;
+
+  /* Focus ring tokens */
+  --focus-ring-color: var(--color-neem);
+  --focus-ring-width: 2px;
+  --focus-ring-offset: 2px;
+}
+
+@theme inline {
+  --color-ink: var(--color-ink);
+  --color-paper: var(--color-paper);
+  --color-neem: var(--color-neem);
+  --color-haldi: var(--color-haldi);
+  --color-mist: var(--color-mist);
+  --color-kattha: var(--color-kattha);
+
+  --font-sans:
+    var(--font-atkinson), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-urdu: var(--font-nastaliq), var(--font-naskh), serif;
+  --font-naskh: var(--font-naskh), sans-serif;
+}
+
+/* High contrast mode overrides.
+   A selector and an @media rule cannot be comma joined: that is invalid CSS and the browser
+   dropped the whole block, so the high contrast button set data-contrast on the root element
+   and nothing in the stylesheet ever read it. Two blocks, one per trigger. */
+:root[data-contrast="high"] {
+  --color-ink: #000000;
+  --color-paper: #ffffff;
+  --color-neem: #0f4a37;
+  --color-haldi: #b37607;
+  --color-mist: #767676;
+  --color-kattha: #8a1e18;
+  --focus-ring-color: #000000;
+  --focus-ring-width: 3px;
+}
+
+/* The system preference applies unless the learner explicitly chose normal here. */
+@media (prefers-contrast: more) {
+  :root:not([data-contrast="normal"]) {
+    --color-ink: #000000;
+    --color-paper: #ffffff;
+    --color-neem: #0f4a37;
+    --color-haldi: #b37607;
+    --color-mist: #767676;
+    --color-kattha: #8a1e18;
+    --focus-ring-color: #000000;
+    --focus-ring-width: 3px;
+  }
+}
+
+/* Text scale support */
+html[data-text-scale="small"] {
+  --text-scale: 0.875;
+}
+html[data-text-scale="normal"] {
+  --text-scale: 1;
+}
+html[data-text-scale="large"] {
+  --text-scale: 1.15;
+}
+html[data-text-scale="xlarge"] {
+  --text-scale: 1.3;
+}
+
+html {
+  font-size: calc(16px * var(--text-scale, 1));
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  min-height: 100%;
+}
+
+/* Universal visible focus indicators */
+*:focus-visible {
+  outline: var(--focus-ring-width) solid var(--focus-ring-color) !important;
+  outline-offset: var(--focus-ring-offset) !important;
+}
+
+/* Urdu typography rules: line-height at least 2.1 to prevent Nastaliq clipping */
+[lang="ur"],
+.font-urdu {
+  font-family: var(--font-urdu);
+  line-height: 2.2 !important;
+}
+
+/* Compact Urdu labels */
+.font-naskh {
+  font-family: var(--font-naskh);
+  line-height: 1.5;
+}
+
+/* Tabular numbers for dashboards, timers and stats */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Maximum line length for prose reading comfort */
+.prose-measure {
+  max-width: 70ch;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
